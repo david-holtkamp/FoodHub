@@ -1,0 +1,3043 @@
+restaurant_id,category_name,product_id,name,price,image
+1,Antipasti,a1,Ravioli,11.19,url23
+1,Antipasti,a2,Ravioli,6.99,url82
+1,Antipasti,a3,Bruschetta,7.08,url13
+1,Antipasti,a4,Lasagna,9.28,url69
+1,Primi,p1,Spaghetti,21.99,url76
+1,Primi,p2,Margherita Pizza,14.84,url86
+1,Primi,p3,Margherita Pizza,11.91,url81
+1,Secondi,s1,Spaghetti,9.1,url38
+1,Secondi,s2,Margherita Pizza,21.7,url34
+1,Secondi,s3,Bruschetta,5.99,url61
+1,Dolci,d1,Lasagna,15.6,url79
+1,Dolci,d2,Ravioli,19.27,url18
+1,Dolci,d3,Spaghetti,21.91,url60
+1,Dolci,d4,Tiramisu,24.25,url73
+2,Mezze,m1,Grilled Octopus,21.29,url87
+2,Mezze,m2,Grilled Octopus,12.58,url51
+2,Mezze,m3,Baklava,24.63,url31
+2,Seafood,s1,Falafel,18.03,url91
+2,Seafood,s2,Baklava,13.13,url24
+2,Seafood,s3,Greek Salad,11.43,url28
+2,Seafood,s4,Lamb Kebab,16.38,url59
+2,Grill,g1,Falafel,21.14,url6
+2,Grill,g2,Lamb Kebab,14.68,url5
+2,Grill,g3,Greek Salad,14.49,url45
+2,Grill,g4,Greek Salad,18.7,url69
+2,Desserts,d1,Greek Salad,11.91,url35
+2,Desserts,d2,Falafel,18.19,url46
+2,Desserts,d3,Lamb Kebab,21.71,url29
+2,Desserts,d4,Baklava,24.23,url45
+2,Desserts,d5,Greek Salad,13.55,url85
+3,Starters,s1,Fajitas,8.0,url38
+3,Starters,s2,Churros,22.36,url24
+3,Starters,s3,Nachos,16.34,url32
+3,Starters,s4,Fajitas,9.83,url67
+3,Starters,s5,Churros,8.7,url94
+3,Tacos,t1,Churros,7.62,url87
+3,Tacos,t2,Churros,8.53,url56
+3,Tacos,t3,Nachos,10.03,url91
+3,Tacos,t4,Chicken Taco,7.78,url71
+3,Mains,m1,Churros,8.36,url82
+3,Mains,m2,Nachos,15.41,url100
+3,Mains,m3,Burrito,10.1,url78
+3,Mains,m4,Chicken Taco,16.78,url20
+3,Desserts,d1,Fajitas,20.9,url67
+3,Desserts,d2,Burrito,10.92,url58
+3,Desserts,d3,Burrito,8.08,url22
+3,Desserts,d4,Burrito,7.38,url55
+3,Desserts,d5,Churros,14.45,url98
+4,Dim Sum,d1,Dumplings,12.21,url19
+4,Dim Sum,d2,Dumplings,10.8,url29
+4,Dim Sum,d3,Sweet & Sour Chicken,14.02,url27
+4,Dim Sum,d4,Fortune Cookies,21.45,url3
+4,Dim Sum,d5,Fried Rice,9.11,url56
+4,Noodles,n1,Lo Mein,20.78,url93
+4,Noodles,n2,Lo Mein,19.61,url31
+4,Noodles,n3,Lo Mein,16.38,url55
+4,Noodles,n4,Dumplings,21.55,url91
+4,Rice Dishes,r1,Sweet & Sour Chicken,21.74,url21
+4,Rice Dishes,r2,Fried Rice,20.03,url52
+4,Rice Dishes,r3,Fried Rice,5.22,url38
+4,Rice Dishes,r4,Sweet & Sour Chicken,11.9,url81
+4,Desserts,d1,Dumplings,17.91,url45
+4,Desserts,d2,Dumplings,10.51,url69
+4,Desserts,d3,Fried Rice,11.09,url21
+4,Desserts,d4,Fried Rice,14.14,url84
+5,Starters,s1,Biryani,18.02,url9
+5,Starters,s2,Samosas,23.98,url31
+5,Starters,s3,Naan,15.23,url88
+5,Curries,c1,Naan,19.88,url91
+5,Curries,c2,Naan,10.31,url25
+5,Curries,c3,Gulab Jamun,24.89,url28
+5,Breads,b1,Butter Chicken,17.1,url29
+5,Breads,b2,Samosas,12.98,url12
+5,Breads,b3,Gulab Jamun,24.43,url28
+5,Breads,b4,Butter Chicken,24.45,url35
+5,Desserts,d1,Gulab Jamun,6.26,url18
+5,Desserts,d2,Paneer Tikka,10.82,url83
+5,Desserts,d3,Naan,5.14,url100
+5,Desserts,d4,Naan,15.79,url11
+5,Desserts,d5,Samosas,18.91,url9
+6,Sushi,s1,Tempura,22.87,url15
+6,Sushi,s2,Mochi,17.74,url17
+6,Sushi,s3,Ramen,22.58,url94
+6,Sushi,s4,California Roll,22.8,url96
+6,Sushi,s5,Teriyaki,19.36,url87
+6,Sashimi,s1,Tempura,14.65,url70
+6,Sashimi,s2,Tempura,20.33,url70
+6,Sashimi,s3,Teriyaki,7.43,url68
+6,Noodles,n1,Ramen,12.36,url3
+6,Noodles,n2,Ramen,7.21,url42
+6,Noodles,n3,Teriyaki,9.2,url93
+6,Desserts,d1,California Roll,24.15,url39
+6,Desserts,d2,Ramen,21.68,url41
+6,Desserts,d3,Teriyaki,6.75,url81
+6,Desserts,d4,Teriyaki,8.8,url30
+7,Starters,s1,Spring Rolls,24.74,url94
+7,Starters,s2,Mango Sticky Rice,12.94,url31
+7,Starters,s3,Green Curry,19.47,url23
+7,Starters,s4,Mango Sticky Rice,6.01,url94
+7,Starters,s5,Spring Rolls,18.08,url56
+7,Curries,c1,Pad Thai,16.24,url96
+7,Curries,c2,Spring Rolls,13.41,url18
+7,Curries,c3,Spring Rolls,22.3,url51
+7,Curries,c4,Mango Sticky Rice,9.45,url3
+7,Curries,c5,Pad Thai,12.1,url75
+7,Noodles,n1,Green Curry,19.24,url54
+7,Noodles,n2,Green Curry,13.38,url59
+7,Noodles,n3,Pad Thai,15.64,url54
+7,Noodles,n4,Pad Thai,6.03,url13
+7,Desserts,d1,Spring Rolls,14.6,url12
+7,Desserts,d2,Pad Thai,10.44,url47
+7,Desserts,d3,Mango Sticky Rice,16.26,url8
+7,Desserts,d4,Pad Thai,22.67,url82
+8,Entrées,e1,Baguette,21.48,url49
+8,Entrées,e2,Baguette,9.38,url30
+8,Entrées,e3,Crème Brûlée,13.74,url87
+8,Entrées,e4,Baguette,14.37,url75
+8,Entrées,e5,Camembert,12.9,url78
+8,Plats Principaux,p1,Coq au Vin,20.28,url22
+8,Plats Principaux,p2,Coq au Vin,17.06,url16
+8,Plats Principaux,p3,Camembert,19.55,url76
+8,Fromages,f1,Coq au Vin,7.99,url70
+8,Fromages,f2,Escargot,24.59,url43
+8,Fromages,f3,Crème Brûlée,16.53,url39
+8,Fromages,f4,Crème Brûlée,15.23,url79
+8,Desserts,d1,Ratatouille,11.44,url35
+8,Desserts,d2,Baguette,22.33,url61
+8,Desserts,d3,Baguette,19.14,url32
+8,Desserts,d4,Crème Brûlée,10.45,url67
+8,Desserts,d5,Ratatouille,8.99,url51
+9,Appetizers,a1,Apple Pie,14.83,url75
+9,Appetizers,a2,Apple Pie,9.58,url66
+9,Appetizers,a3,Fried Chicken,8.46,url51
+9,Appetizers,a4,Cobb Salad,9.09,url96
+9,Appetizers,a5,Wings,7.15,url48
+9,Burgers,b1,Fried Chicken,17.1,url38
+9,Burgers,b2,Apple Pie,16.77,url37
+9,Burgers,b3,Fried Chicken,7.79,url86
+9,Burgers,b4,Cobb Salad,6.44,url46
+9,Hot Dogs,h1,Wings,17.69,url87
+9,Hot Dogs,h2,Fried Chicken,16.78,url23
+9,Hot Dogs,h3,Fried Chicken,23.45,url9
+9,Hot Dogs,h4,Chili Dog,10.81,url33
+9,Hot Dogs,h5,Cobb Salad,21.47,url46
+9,Desserts,d1,Chili Dog,11.53,url87
+9,Desserts,d2,Apple Pie,20.21,url86
+9,Desserts,d3,Wings,5.4,url68
+10,Appetizers,a1,Moussaka,18.24,url25
+10,Appetizers,a2,Gyros,11.66,url21
+10,Appetizers,a3,Souvlaki,20.17,url64
+10,Salads,s1,Tzatziki,6.67,url74
+10,Salads,s2,Baklava,17.82,url12
+10,Salads,s3,Souvlaki,10.83,url57
+10,Salads,s4,Tzatziki,6.35,url73
+10,Salads,s5,Gyros,17.54,url15
+10,Mains,m1,Gyros,5.48,url58
+10,Mains,m2,Gyros,18.57,url72
+10,Mains,m3,Greek Salad,23.41,url85
+10,Mains,m4,Souvlaki,5.58,url59
+10,Desserts,d1,Souvlaki,11.95,url58
+10,Desserts,d2,Souvlaki,7.92,url3
+10,Desserts,d3,Souvlaki,19.53,url17
+11,Starters,s1,Che,13.35,url30
+11,Starters,s2,Spring Rolls,20.93,url29
+11,Starters,s3,Spring Rolls,20.55,url16
+11,Starters,s4,Lemongrass Chicken,17.32,url89
+11,Noodle Soups,n1,Bun Thit Nuong,7.95,url61
+11,Noodle Soups,n2,Che,19.69,url15
+11,Noodle Soups,n3,Spring Rolls,6.76,url69
+11,Noodle Soups,n4,Pho,17.05,url91
+11,Rice Dishes,r1,Che,23.75,url17
+11,Rice Dishes,r2,Spring Rolls,15.28,url26
+11,Rice Dishes,r3,Bun Thit Nuong,7.59,url100
+11,Rice Dishes,r4,Pho,11.61,url25
+11,Desserts,d1,Banh Mi,14.71,url18
+11,Desserts,d2,Bun Thit Nuong,15.53,url64
+11,Desserts,d3,Bun Thit Nuong,12.15,url40
+12,Tapas,t1,Churros,8.67,url80
+12,Tapas,t2,Paella,12.12,url84
+12,Tapas,t3,Gambas al Ajillo,15.57,url26
+12,Tapas,t4,Gambas al Ajillo,8.91,url37
+12,Mains,m1,Paella,6.92,url94
+12,Mains,m2,Gambas al Ajillo,14.93,url92
+12,Mains,m3,Tortilla Española,13.58,url48
+12,Seafood,s1,Churros,7.01,url56
+12,Seafood,s2,Patatas Bravas,9.64,url74
+12,Seafood,s3,Tortilla Española,22.21,url34
+12,Seafood,s4,Churros,19.15,url44
+12,Desserts,d1,Tortilla Española,13.52,url72
+12,Desserts,d2,Gambas al Ajillo,7.79,url26
+12,Desserts,d3,Tortilla Española,7.54,url84
+12,Desserts,d4,Sangria,21.41,url3
+12,Desserts,d5,Churros,11.53,url56
+13,Antipasti,a1,Bruschetta,9.91,url91
+13,Antipasti,a2,Tiramisu,15.16,url66
+13,Antipasti,a3,Ravioli,23.27,url4
+13,Primi,p1,Spaghetti,17.18,url89
+13,Primi,p2,Margherita Pizza,22.15,url99
+13,Primi,p3,Tiramisu,21.9,url44
+13,Primi,p4,Lasagna,14.02,url22
+13,Primi,p5,Lasagna,22.35,url64
+13,Secondi,s1,Spaghetti,24.63,url47
+13,Secondi,s2,Bruschetta,10.68,url65
+13,Secondi,s3,Tiramisu,10.17,url68
+13,Dolci,d1,Margherita Pizza,22.39,url88
+13,Dolci,d2,Spaghetti,13.2,url6
+13,Dolci,d3,Tiramisu,18.72,url86
+13,Dolci,d4,Tiramisu,6.63,url21
+13,Dolci,d5,Bruschetta,19.24,url8
+14,Mezze,m1,Greek Salad,20.88,url75
+14,Mezze,m2,Hummus,20.64,url19
+14,Mezze,m3,Baklava,20.53,url47
+14,Mezze,m4,Grilled Octopus,23.91,url93
+14,Seafood,s1,Falafel,17.1,url82
+14,Seafood,s2,Falafel,13.74,url79
+14,Seafood,s3,Falafel,23.37,url88
+14,Seafood,s4,Greek Salad,7.45,url45
+14,Grill,g1,Baklava,7.74,url35
+14,Grill,g2,Lamb Kebab,5.2,url82
+14,Grill,g3,Falafel,23.48,url50
+14,Grill,g4,Greek Salad,24.09,url12
+14,Grill,g5,Lamb Kebab,17.25,url52
+14,Desserts,d1,Hummus,14.28,url67
+14,Desserts,d2,Falafel,7.1,url65
+14,Desserts,d3,Baklava,11.18,url56
+15,Starters,s1,Chicken Taco,18.2,url23
+15,Starters,s2,Churros,8.9,url74
+15,Starters,s3,Nachos,23.58,url54
+15,Tacos,t1,Nachos,22.17,url77
+15,Tacos,t2,Churros,13.42,url93
+15,Tacos,t3,Quesadilla,20.29,url17
+15,Mains,m1,Nachos,20.21,url82
+15,Mains,m2,Burrito,17.18,url65
+15,Mains,m3,Quesadilla,12.93,url99
+15,Mains,m4,Nachos,16.22,url14
+15,Mains,m5,Nachos,20.96,url11
+15,Desserts,d1,Churros,10.44,url32
+15,Desserts,d2,Chicken Taco,7.57,url43
+15,Desserts,d3,Burrito,11.75,url23
+16,Dim Sum,d1,Fortune Cookies,24.96,url22
+16,Dim Sum,d2,Dumplings,19.58,url49
+16,Dim Sum,d3,Lo Mein,7.39,url16
+16,Noodles,n1,Dumplings,24.57,url46
+16,Noodles,n2,Sweet & Sour Chicken,22.24,url11
+16,Noodles,n3,Lo Mein,22.51,url94
+16,Rice Dishes,r1,Sweet & Sour Chicken,16.76,url93
+16,Rice Dishes,r2,Fortune Cookies,18.0,url65
+16,Rice Dishes,r3,Sweet & Sour Chicken,11.92,url58
+16,Rice Dishes,r4,Fortune Cookies,11.32,url46
+16,Desserts,d1,Sweet & Sour Chicken,14.08,url9
+16,Desserts,d2,Fried Rice,13.99,url47
+16,Desserts,d3,Lo Mein,24.7,url74
+16,Desserts,d4,Fried Rice,11.73,url94
+17,Starters,s1,Paneer Tikka,10.38,url31
+17,Starters,s2,Naan,17.17,url8
+17,Starters,s3,Butter Chicken,19.35,url57
+17,Starters,s4,Naan,20.28,url17
+17,Starters,s5,Biryani,19.5,url1
+17,Curries,c1,Paneer Tikka,14.43,url55
+17,Curries,c2,Paneer Tikka,22.05,url62
+17,Curries,c3,Samosas,21.74,url83
+17,Curries,c4,Paneer Tikka,21.14,url72
+17,Curries,c5,Samosas,18.19,url60
+17,Breads,b1,Samosas,19.13,url34
+17,Breads,b2,Paneer Tikka,15.64,url41
+17,Breads,b3,Paneer Tikka,8.67,url25
+17,Desserts,d1,Paneer Tikka,8.65,url25
+17,Desserts,d2,Paneer Tikka,21.09,url40
+17,Desserts,d3,Biryani,9.25,url42
+17,Desserts,d4,Naan,15.28,url90
+18,Sushi,s1,Tempura,18.36,url21
+18,Sushi,s2,California Roll,24.81,url67
+18,Sushi,s3,Salmon Sashimi,15.1,url72
+18,Sashimi,s1,Teriyaki,16.06,url91
+18,Sashimi,s2,Mochi,17.8,url18
+18,Sashimi,s3,Salmon Sashimi,18.33,url51
+18,Noodles,n1,Mochi,19.61,url65
+18,Noodles,n2,Mochi,5.98,url54
+18,Noodles,n3,California Roll,8.1,url100
+18,Noodles,n4,Mochi,20.4,url55
+18,Noodles,n5,California Roll,12.26,url19
+18,Desserts,d1,Teriyaki,16.33,url98
+18,Desserts,d2,Tempura,9.19,url88
+18,Desserts,d3,Ramen,9.37,url82
+19,Starters,s1,Mango Sticky Rice,19.89,url78
+19,Starters,s2,Tom Yum Soup,23.97,url4
+19,Starters,s3,Spring Rolls,18.03,url73
+19,Curries,c1,Spring Rolls,5.15,url16
+19,Curries,c2,Spring Rolls,18.46,url11
+19,Curries,c3,Green Curry,19.03,url39
+19,Curries,c4,Pad Thai,22.41,url15
+19,Curries,c5,Mango Sticky Rice,19.11,url35
+19,Noodles,n1,Tom Yum Soup,24.13,url80
+19,Noodles,n2,Mango Sticky Rice,22.71,url73
+19,Noodles,n3,Tom Yum Soup,16.3,url17
+19,Noodles,n4,Mango Sticky Rice,20.36,url42
+19,Desserts,d1,Tom Yum Soup,14.03,url66
+19,Desserts,d2,Spring Rolls,20.07,url86
+19,Desserts,d3,Mango Sticky Rice,19.44,url54
+19,Desserts,d4,Green Curry,19.23,url51
+20,Entrées,e1,Camembert,23.53,url10
+20,Entrées,e2,Camembert,9.45,url86
+20,Entrées,e3,Baguette,23.64,url77
+20,Plats Principaux,p1,Ratatouille,22.96,url53
+20,Plats Principaux,p2,Baguette,6.12,url27
+20,Plats Principaux,p3,Escargot,12.62,url7
+20,Plats Principaux,p4,Camembert,13.91,url4
+20,Plats Principaux,p5,Crème Brûlée,22.22,url5
+20,Fromages,f1,Crème Brûlée,9.29,url13
+20,Fromages,f2,Crème Brûlée,21.23,url81
+20,Fromages,f3,Baguette,8.74,url21
+20,Fromages,f4,Baguette,7.54,url99
+20,Fromages,f5,Coq au Vin,10.18,url42
+20,Desserts,d1,Baguette,9.49,url65
+20,Desserts,d2,Escargot,13.2,url24
+20,Desserts,d3,Coq au Vin,24.51,url82
+20,Desserts,d4,Coq au Vin,15.84,url14
+20,Desserts,d5,Escargot,14.93,url74
+21,Appetizers,a1,Cheeseburger,23.3,url92
+21,Appetizers,a2,Apple Pie,20.96,url41
+21,Appetizers,a3,Fried Chicken,5.97,url89
+21,Burgers,b1,Chili Dog,13.53,url77
+21,Burgers,b2,Cobb Salad,16.88,url83
+21,Burgers,b3,Cheeseburger,21.5,url94
+21,Burgers,b4,Apple Pie,5.83,url6
+21,Burgers,b5,Cheeseburger,23.29,url47
+21,Hot Dogs,h1,Cobb Salad,18.35,url64
+21,Hot Dogs,h2,Cobb Salad,10.05,url87
+21,Hot Dogs,h3,Wings,15.12,url76
+21,Desserts,d1,Chili Dog,8.89,url7
+21,Desserts,d2,Cobb Salad,14.35,url3
+21,Desserts,d3,Fried Chicken,19.2,url15
+21,Desserts,d4,Cheeseburger,15.5,url25
+21,Desserts,d5,Fried Chicken,20.1,url91
+22,Appetizers,a1,Greek Salad,16.92,url5
+22,Appetizers,a2,Tzatziki,9.43,url71
+22,Appetizers,a3,Moussaka,15.53,url45
+22,Appetizers,a4,Moussaka,5.97,url43
+22,Salads,s1,Souvlaki,14.01,url28
+22,Salads,s2,Greek Salad,21.64,url60
+22,Salads,s3,Souvlaki,19.72,url18
+22,Mains,m1,Souvlaki,11.39,url68
+22,Mains,m2,Tzatziki,16.59,url34
+22,Mains,m3,Moussaka,20.56,url13
+22,Mains,m4,Tzatziki,7.58,url1
+22,Desserts,d1,Greek Salad,16.73,url4
+22,Desserts,d2,Gyros,19.02,url93
+22,Desserts,d3,Tzatziki,9.44,url87
+22,Desserts,d4,Baklava,5.76,url34
+23,Starters,s1,Che,18.72,url96
+23,Starters,s2,Che,11.55,url45
+23,Starters,s3,Spring Rolls,21.63,url59
+23,Starters,s4,Spring Rolls,24.87,url97
+23,Starters,s5,Banh Mi,21.31,url42
+23,Noodle Soups,n1,Che,22.99,url81
+23,Noodle Soups,n2,Bun Thit Nuong,5.73,url64
+23,Noodle Soups,n3,Banh Mi,20.09,url21
+23,Rice Dishes,r1,Che,22.2,url87
+23,Rice Dishes,r2,Che,8.4,url41
+23,Rice Dishes,r3,Pho,22.42,url91
+23,Rice Dishes,r4,Bun Thit Nuong,8.19,url21
+23,Rice Dishes,r5,Banh Mi,7.94,url12
+23,Desserts,d1,Che,24.51,url51
+23,Desserts,d2,Pho,8.58,url27
+23,Desserts,d3,Spring Rolls,15.73,url29
+23,Desserts,d4,Pho,14.05,url68
+23,Desserts,d5,Spring Rolls,20.94,url98
+24,Tapas,t1,Tortilla Española,11.03,url83
+24,Tapas,t2,Tortilla Española,10.51,url82
+24,Tapas,t3,Churros,6.71,url25
+24,Tapas,t4,Sangria,6.56,url7
+24,Tapas,t5,Paella,17.89,url63
+24,Mains,m1,Patatas Bravas,17.59,url32
+24,Mains,m2,Gambas al Ajillo,15.34,url60
+24,Mains,m3,Paella,8.17,url93
+24,Mains,m4,Churros,22.83,url65
+24,Mains,m5,Paella,11.7,url36
+24,Seafood,s1,Churros,23.71,url53
+24,Seafood,s2,Sangria,14.86,url33
+24,Seafood,s3,Sangria,15.32,url44
+24,Desserts,d1,Patatas Bravas,15.63,url57
+24,Desserts,d2,Patatas Bravas,10.14,url64
+24,Desserts,d3,Tortilla Española,20.68,url44
+25,Antipasti,a1,Margherita Pizza,23.78,url4
+25,Antipasti,a2,Lasagna,17.12,url3
+25,Antipasti,a3,Lasagna,21.96,url96
+25,Primi,p1,Tiramisu,23.79,url87
+25,Primi,p2,Spaghetti,6.38,url56
+25,Primi,p3,Bruschetta,21.78,url44
+25,Secondi,s1,Lasagna,21.47,url39
+25,Secondi,s2,Spaghetti,17.47,url67
+25,Secondi,s3,Bruschetta,17.73,url48
+25,Dolci,d1,Tiramisu,9.46,url54
+25,Dolci,d2,Spaghetti,14.65,url58
+25,Dolci,d3,Bruschetta,16.24,url74
+26,Mezze,m1,Falafel,22.97,url70
+26,Mezze,m2,Lamb Kebab,18.25,url46
+26,Mezze,m3,Lamb Kebab,10.0,url95
+26,Mezze,m4,Baklava,8.23,url47
+26,Mezze,m5,Hummus,23.75,url56
+26,Seafood,s1,Greek Salad,6.63,url15
+26,Seafood,s2,Hummus,9.0,url52
+26,Seafood,s3,Baklava,14.55,url6
+26,Seafood,s4,Hummus,15.94,url63
+26,Seafood,s5,Grilled Octopus,17.63,url29
+26,Grill,g1,Grilled Octopus,14.06,url22
+26,Grill,g2,Hummus,5.71,url75
+26,Grill,g3,Baklava,6.36,url7
+26,Grill,g4,Grilled Octopus,20.73,url10
+26,Grill,g5,Greek Salad,10.76,url57
+26,Desserts,d1,Baklava,10.78,url22
+26,Desserts,d2,Falafel,12.32,url78
+26,Desserts,d3,Baklava,7.23,url51
+27,Starters,s1,Chicken Taco,21.15,url60
+27,Starters,s2,Churros,12.66,url100
+27,Starters,s3,Churros,23.97,url25
+27,Starters,s4,Burrito,8.32,url75
+27,Starters,s5,Fajitas,17.2,url2
+27,Tacos,t1,Quesadilla,24.76,url7
+27,Tacos,t2,Chicken Taco,9.91,url11
+27,Tacos,t3,Burrito,14.32,url5
+27,Tacos,t4,Nachos,18.28,url63
+27,Mains,m1,Fajitas,13.68,url58
+27,Mains,m2,Nachos,7.77,url89
+27,Mains,m3,Quesadilla,16.18,url41
+27,Desserts,d1,Burrito,12.54,url60
+27,Desserts,d2,Churros,20.18,url3
+27,Desserts,d3,Fajitas,16.93,url67
+27,Desserts,d4,Churros,17.64,url92
+28,Dim Sum,d1,Dumplings,15.79,url92
+28,Dim Sum,d2,Fortune Cookies,20.45,url54
+28,Dim Sum,d3,Fried Rice,9.7,url23
+28,Noodles,n1,Lo Mein,13.28,url35
+28,Noodles,n2,Dumplings,8.14,url100
+28,Noodles,n3,Fortune Cookies,24.83,url38
+28,Rice Dishes,r1,Sweet & Sour Chicken,14.3,url59
+28,Rice Dishes,r2,Sweet & Sour Chicken,12.6,url62
+28,Rice Dishes,r3,Lo Mein,19.97,url7
+28,Desserts,d1,Sweet & Sour Chicken,13.36,url69
+28,Desserts,d2,Sweet & Sour Chicken,6.3,url58
+28,Desserts,d3,Dumplings,5.23,url10
+29,Starters,s1,Paneer Tikka,19.56,url14
+29,Starters,s2,Naan,20.54,url28
+29,Starters,s3,Samosas,12.0,url69
+29,Starters,s4,Naan,11.31,url73
+29,Curries,c1,Biryani,7.03,url53
+29,Curries,c2,Butter Chicken,8.61,url93
+29,Curries,c3,Samosas,15.99,url52
+29,Curries,c4,Gulab Jamun,11.39,url39
+29,Breads,b1,Samosas,12.72,url33
+29,Breads,b2,Samosas,15.01,url68
+29,Breads,b3,Paneer Tikka,16.47,url97
+29,Breads,b4,Gulab Jamun,12.63,url87
+29,Desserts,d1,Gulab Jamun,8.9,url54
+29,Desserts,d2,Samosas,10.99,url17
+29,Desserts,d3,Samosas,5.23,url78
+30,Sushi,s1,Teriyaki,22.22,url55
+30,Sushi,s2,Teriyaki,11.38,url16
+30,Sushi,s3,Mochi,10.95,url17
+30,Sushi,s4,Ramen,14.22,url14
+30,Sushi,s5,Mochi,10.34,url61
+30,Sashimi,s1,Salmon Sashimi,16.16,url91
+30,Sashimi,s2,Salmon Sashimi,13.39,url57
+30,Sashimi,s3,Salmon Sashimi,20.86,url49
+30,Sashimi,s4,California Roll,5.19,url33
+30,Sashimi,s5,Tempura,16.51,url10
+30,Noodles,n1,Teriyaki,11.97,url5
+30,Noodles,n2,Ramen,7.11,url3
+30,Noodles,n3,Ramen,17.49,url17
+30,Noodles,n4,Teriyaki,24.32,url39
+30,Noodles,n5,Ramen,24.01,url60
+30,Desserts,d1,Ramen,9.01,url64
+30,Desserts,d2,Tempura,14.2,url39
+30,Desserts,d3,Salmon Sashimi,13.14,url82
+30,Desserts,d4,Teriyaki,11.01,url58
+30,Desserts,d5,California Roll,21.35,url18
+31,Starters,s1,Mango Sticky Rice,17.73,url60
+31,Starters,s2,Spring Rolls,17.26,url78
+31,Starters,s3,Spring Rolls,10.55,url26
+31,Starters,s4,Green Curry,11.61,url17
+31,Curries,c1,Pad Thai,16.88,url77
+31,Curries,c2,Mango Sticky Rice,7.46,url26
+31,Curries,c3,Green Curry,12.8,url18
+31,Curries,c4,Spring Rolls,12.14,url26
+31,Curries,c5,Green Curry,5.49,url3
+31,Noodles,n1,Tom Yum Soup,10.34,url73
+31,Noodles,n2,Green Curry,12.67,url47
+31,Noodles,n3,Green Curry,9.09,url12
+31,Desserts,d1,Mango Sticky Rice,11.93,url46
+31,Desserts,d2,Green Curry,10.84,url9
+31,Desserts,d3,Mango Sticky Rice,16.79,url57
+31,Desserts,d4,Mango Sticky Rice,10.84,url17
+32,Entrées,e1,Camembert,18.87,url28
+32,Entrées,e2,Camembert,6.42,url99
+32,Entrées,e3,Camembert,18.35,url40
+32,Plats Principaux,p1,Baguette,19.94,url78
+32,Plats Principaux,p2,Coq au Vin,21.4,url36
+32,Plats Principaux,p3,Baguette,22.61,url79
+32,Fromages,f1,Crème Brûlée,12.7,url23
+32,Fromages,f2,Escargot,19.76,url37
+32,Fromages,f3,Crème Brûlée,19.28,url62
+32,Fromages,f4,Ratatouille,8.85,url21
+32,Desserts,d1,Escargot,21.16,url93
+32,Desserts,d2,Ratatouille,7.57,url3
+32,Desserts,d3,Escargot,18.82,url95
+33,Appetizers,a1,Wings,11.2,url83
+33,Appetizers,a2,Fried Chicken,22.95,url11
+33,Appetizers,a3,Cheeseburger,20.94,url53
+33,Appetizers,a4,Fried Chicken,8.45,url48
+33,Appetizers,a5,Chili Dog,19.76,url68
+33,Burgers,b1,Wings,12.26,url54
+33,Burgers,b2,Fried Chicken,14.33,url35
+33,Burgers,b3,Wings,13.82,url66
+33,Hot Dogs,h1,Chili Dog,24.04,url12
+33,Hot Dogs,h2,Wings,20.28,url36
+33,Hot Dogs,h3,Cobb Salad,9.27,url9
+33,Hot Dogs,h4,Fried Chicken,10.85,url60
+33,Hot Dogs,h5,Cheeseburger,11.96,url50
+33,Desserts,d1,Wings,14.26,url58
+33,Desserts,d2,Chili Dog,17.49,url82
+33,Desserts,d3,Apple Pie,14.27,url52
+34,Appetizers,a1,Souvlaki,12.87,url62
+34,Appetizers,a2,Greek Salad,8.9,url84
+34,Appetizers,a3,Souvlaki,14.14,url73
+34,Salads,s1,Tzatziki,5.6,url48
+34,Salads,s2,Baklava,20.56,url79
+34,Salads,s3,Souvlaki,22.73,url39
+34,Salads,s4,Baklava,17.41,url77
+34,Salads,s5,Moussaka,5.6,url14
+34,Mains,m1,Tzatziki,15.18,url87
+34,Mains,m2,Moussaka,8.12,url37
+34,Mains,m3,Baklava,13.43,url54
+34,Mains,m4,Tzatziki,6.15,url7
+34,Desserts,d1,Moussaka,13.06,url100
+34,Desserts,d2,Gyros,15.17,url76
+34,Desserts,d3,Tzatziki,9.34,url85
+34,Desserts,d4,Greek Salad,8.15,url4
+35,Starters,s1,Che,9.47,url45
+35,Starters,s2,Bun Thit Nuong,14.99,url28
+35,Starters,s3,Lemongrass Chicken,22.6,url37
+35,Starters,s4,Pho,16.38,url90
+35,Starters,s5,Pho,10.12,url27
+35,Noodle Soups,n1,Banh Mi,16.22,url10
+35,Noodle Soups,n2,Spring Rolls,19.23,url23
+35,Noodle Soups,n3,Che,6.6,url7
+35,Rice Dishes,r1,Lemongrass Chicken,10.19,url70
+35,Rice Dishes,r2,Banh Mi,19.51,url10
+35,Rice Dishes,r3,Bun Thit Nuong,9.47,url67
+35,Rice Dishes,r4,Banh Mi,21.21,url42
+35,Desserts,d1,Che,8.89,url92
+35,Desserts,d2,Che,5.47,url79
+35,Desserts,d3,Pho,9.45,url88
+36,Tapas,t1,Sangria,9.63,url5
+36,Tapas,t2,Patatas Bravas,8.27,url55
+36,Tapas,t3,Patatas Bravas,7.32,url13
+36,Tapas,t4,Sangria,9.53,url9
+36,Mains,m1,Gambas al Ajillo,8.85,url80
+36,Mains,m2,Patatas Bravas,24.77,url38
+36,Mains,m3,Sangria,14.65,url79
+36,Mains,m4,Paella,13.27,url31
+36,Seafood,s1,Patatas Bravas,14.16,url64
+36,Seafood,s2,Paella,21.96,url91
+36,Seafood,s3,Gambas al Ajillo,23.69,url22
+36,Desserts,d1,Sangria,24.78,url55
+36,Desserts,d2,Patatas Bravas,5.79,url32
+36,Desserts,d3,Churros,14.31,url24
+36,Desserts,d4,Churros,18.4,url89
+36,Desserts,d5,Sangria,10.41,url78
+37,Antipasti,a1,Lasagna,8.77,url54
+37,Antipasti,a2,Lasagna,6.09,url56
+37,Antipasti,a3,Bruschetta,8.02,url100
+37,Primi,p1,Spaghetti,22.5,url6
+37,Primi,p2,Ravioli,15.45,url76
+37,Primi,p3,Lasagna,11.77,url80
+37,Primi,p4,Spaghetti,20.73,url59
+37,Primi,p5,Spaghetti,14.16,url69
+37,Secondi,s1,Margherita Pizza,10.45,url48
+37,Secondi,s2,Margherita Pizza,6.4,url14
+37,Secondi,s3,Ravioli,17.9,url73
+37,Dolci,d1,Spaghetti,16.38,url89
+37,Dolci,d2,Bruschetta,23.96,url38
+37,Dolci,d3,Spaghetti,6.44,url43
+38,Mezze,m1,Falafel,7.95,url63
+38,Mezze,m2,Grilled Octopus,22.27,url37
+38,Mezze,m3,Falafel,21.89,url93
+38,Seafood,s1,Baklava,12.52,url61
+38,Seafood,s2,Falafel,15.46,url88
+38,Seafood,s3,Greek Salad,10.97,url70
+38,Grill,g1,Falafel,9.11,url19
+38,Grill,g2,Grilled Octopus,24.95,url6
+38,Grill,g3,Baklava,6.94,url48
+38,Desserts,d1,Grilled Octopus,21.4,url31
+38,Desserts,d2,Lamb Kebab,12.24,url97
+38,Desserts,d3,Baklava,21.16,url85
+39,Starters,s1,Burrito,18.05,url5
+39,Starters,s2,Quesadilla,10.41,url19
+39,Starters,s3,Quesadilla,24.57,url56
+39,Starters,s4,Burrito,5.95,url78
+39,Starters,s5,Churros,6.49,url53
+39,Tacos,t1,Chicken Taco,13.71,url52
+39,Tacos,t2,Quesadilla,8.93,url31
+39,Tacos,t3,Churros,15.55,url30
+39,Tacos,t4,Burrito,17.96,url33
+39,Tacos,t5,Chicken Taco,11.01,url52
+39,Mains,m1,Chicken Taco,20.59,url37
+39,Mains,m2,Quesadilla,16.8,url22
+39,Mains,m3,Chicken Taco,20.8,url4
+39,Desserts,d1,Chicken Taco,18.82,url98
+39,Desserts,d2,Quesadilla,23.81,url63
+39,Desserts,d3,Fajitas,6.78,url51
+40,Dim Sum,d1,Sweet & Sour Chicken,20.44,url10
+40,Dim Sum,d2,Dumplings,22.28,url57
+40,Dim Sum,d3,Fortune Cookies,6.38,url31
+40,Dim Sum,d4,Fortune Cookies,11.17,url76
+40,Dim Sum,d5,Sweet & Sour Chicken,22.91,url88
+40,Noodles,n1,Dumplings,11.53,url15
+40,Noodles,n2,Dumplings,11.82,url98
+40,Noodles,n3,Fried Rice,10.13,url15
+40,Noodles,n4,Dumplings,15.22,url27
+40,Rice Dishes,r1,Dumplings,10.53,url42
+40,Rice Dishes,r2,Lo Mein,16.2,url44
+40,Rice Dishes,r3,Dumplings,19.31,url85
+40,Rice Dishes,r4,Fortune Cookies,14.73,url10
+40,Desserts,d1,Fried Rice,15.61,url46
+40,Desserts,d2,Lo Mein,11.65,url79
+40,Desserts,d3,Dumplings,24.13,url49
+40,Desserts,d4,Fortune Cookies,24.02,url23
+41,Starters,s1,Samosas,18.11,url33
+41,Starters,s2,Naan,19.33,url33
+41,Starters,s3,Paneer Tikka,9.31,url55
+41,Starters,s4,Samosas,17.73,url21
+41,Starters,s5,Samosas,5.89,url67
+41,Curries,c1,Naan,22.22,url36
+41,Curries,c2,Biryani,8.53,url86
+41,Curries,c3,Naan,8.29,url89
+41,Curries,c4,Gulab Jamun,21.48,url98
+41,Breads,b1,Naan,21.45,url64
+41,Breads,b2,Biryani,23.8,url10
+41,Breads,b3,Paneer Tikka,21.1,url73
+41,Breads,b4,Butter Chicken,9.76,url76
+41,Desserts,d1,Paneer Tikka,10.47,url86
+41,Desserts,d2,Butter Chicken,11.52,url63
+41,Desserts,d3,Gulab Jamun,10.44,url57
+41,Desserts,d4,Naan,10.66,url79
+41,Desserts,d5,Samosas,8.22,url3
+42,Sushi,s1,Ramen,6.62,url24
+42,Sushi,s2,California Roll,14.12,url27
+42,Sushi,s3,Mochi,22.03,url44
+42,Sushi,s4,Salmon Sashimi,13.41,url70
+42,Sashimi,s1,California Roll,9.5,url88
+42,Sashimi,s2,Tempura,15.33,url91
+42,Sashimi,s3,California Roll,22.12,url68
+42,Sashimi,s4,California Roll,20.39,url31
+42,Noodles,n1,Teriyaki,16.58,url86
+42,Noodles,n2,Tempura,7.17,url80
+42,Noodles,n3,Salmon Sashimi,19.39,url95
+42,Desserts,d1,Tempura,14.24,url20
+42,Desserts,d2,Mochi,7.99,url51
+42,Desserts,d3,Tempura,22.44,url65
+42,Desserts,d4,Tempura,24.51,url99
+42,Desserts,d5,Mochi,14.32,url12
+43,Starters,s1,Green Curry,11.12,url84
+43,Starters,s2,Spring Rolls,8.86,url71
+43,Starters,s3,Pad Thai,18.53,url44
+43,Starters,s4,Tom Yum Soup,7.09,url6
+43,Starters,s5,Mango Sticky Rice,7.0,url88
+43,Curries,c1,Mango Sticky Rice,15.22,url94
+43,Curries,c2,Spring Rolls,7.69,url11
+43,Curries,c3,Tom Yum Soup,20.12,url75
+43,Noodles,n1,Green Curry,15.7,url77
+43,Noodles,n2,Spring Rolls,9.24,url25
+43,Noodles,n3,Green Curry,22.61,url58
+43,Desserts,d1,Tom Yum Soup,11.68,url100
+43,Desserts,d2,Green Curry,21.6,url49
+43,Desserts,d3,Tom Yum Soup,7.56,url3
+43,Desserts,d4,Mango Sticky Rice,13.36,url96
+44,Entrées,e1,Camembert,6.88,url85
+44,Entrées,e2,Escargot,22.44,url71
+44,Entrées,e3,Baguette,17.24,url33
+44,Entrées,e4,Ratatouille,15.67,url76
+44,Plats Principaux,p1,Coq au Vin,7.87,url57
+44,Plats Principaux,p2,Coq au Vin,19.73,url55
+44,Plats Principaux,p3,Ratatouille,7.99,url75
+44,Plats Principaux,p4,Coq au Vin,9.43,url8
+44,Fromages,f1,Camembert,23.77,url41
+44,Fromages,f2,Escargot,16.22,url83
+44,Fromages,f3,Crème Brûlée,23.41,url78
+44,Fromages,f4,Crème Brûlée,5.12,url71
+44,Fromages,f5,Crème Brûlée,22.08,url82
+44,Desserts,d1,Escargot,24.59,url79
+44,Desserts,d2,Crème Brûlée,11.58,url25
+44,Desserts,d3,Escargot,6.8,url53
+44,Desserts,d4,Camembert,17.17,url14
+45,Appetizers,a1,Cobb Salad,19.2,url30
+45,Appetizers,a2,Wings,20.31,url27
+45,Appetizers,a3,Cheeseburger,24.89,url94
+45,Appetizers,a4,Chili Dog,24.24,url89
+45,Burgers,b1,Fried Chicken,17.79,url54
+45,Burgers,b2,Wings,23.2,url38
+45,Burgers,b3,Cobb Salad,19.05,url20
+45,Burgers,b4,Fried Chicken,5.06,url31
+45,Hot Dogs,h1,Chili Dog,14.73,url87
+45,Hot Dogs,h2,Apple Pie,19.9,url51
+45,Hot Dogs,h3,Fried Chicken,8.76,url5
+45,Hot Dogs,h4,Wings,19.28,url20
+45,Desserts,d1,Fried Chicken,19.49,url53
+45,Desserts,d2,Apple Pie,9.39,url71
+45,Desserts,d3,Chili Dog,17.42,url66
+45,Desserts,d4,Fried Chicken,18.16,url74
+45,Desserts,d5,Cobb Salad,14.86,url15
+46,Appetizers,a1,Souvlaki,12.5,url54
+46,Appetizers,a2,Souvlaki,11.64,url21
+46,Appetizers,a3,Gyros,16.46,url29
+46,Appetizers,a4,Moussaka,10.37,url10
+46,Appetizers,a5,Gyros,23.36,url89
+46,Salads,s1,Greek Salad,19.56,url54
+46,Salads,s2,Tzatziki,23.32,url33
+46,Salads,s3,Baklava,14.38,url23
+46,Mains,m1,Souvlaki,12.83,url63
+46,Mains,m2,Baklava,9.23,url12
+46,Mains,m3,Tzatziki,7.56,url84
+46,Mains,m4,Moussaka,10.61,url27
+46,Mains,m5,Tzatziki,24.79,url17
+46,Desserts,d1,Tzatziki,18.58,url47
+46,Desserts,d2,Gyros,24.16,url78
+46,Desserts,d3,Gyros,10.72,url49
+46,Desserts,d4,Tzatziki,14.71,url16
+46,Desserts,d5,Moussaka,16.15,url88
+47,Starters,s1,Che,9.71,url36
+47,Starters,s2,Bun Thit Nuong,12.45,url84
+47,Starters,s3,Spring Rolls,19.49,url12
+47,Starters,s4,Lemongrass Chicken,13.78,url89
+47,Starters,s5,Pho,20.4,url78
+47,Noodle Soups,n1,Lemongrass Chicken,8.14,url55
+47,Noodle Soups,n2,Lemongrass Chicken,8.56,url91
+47,Noodle Soups,n3,Lemongrass Chicken,22.38,url54
+47,Noodle Soups,n4,Pho,19.59,url59
+47,Rice Dishes,r1,Lemongrass Chicken,9.03,url64
+47,Rice Dishes,r2,Che,15.96,url98
+47,Rice Dishes,r3,Banh Mi,17.85,url12
+47,Rice Dishes,r4,Pho,15.59,url41
+47,Desserts,d1,Che,5.06,url22
+47,Desserts,d2,Che,7.78,url10
+47,Desserts,d3,Spring Rolls,23.7,url63
+47,Desserts,d4,Lemongrass Chicken,18.68,url84
+48,Tapas,t1,Tortilla Española,7.76,url84
+48,Tapas,t2,Churros,16.65,url76
+48,Tapas,t3,Churros,7.27,url55
+48,Tapas,t4,Churros,8.47,url64
+48,Mains,m1,Sangria,17.84,url80
+48,Mains,m2,Churros,21.44,url99
+48,Mains,m3,Gambas al Ajillo,8.29,url97
+48,Mains,m4,Paella,23.76,url61
+48,Seafood,s1,Patatas Bravas,17.25,url82
+48,Seafood,s2,Sangria,8.6,url71
+48,Seafood,s3,Gambas al Ajillo,11.78,url18
+48,Seafood,s4,Paella,17.65,url75
+48,Seafood,s5,Sangria,9.51,url17
+48,Desserts,d1,Patatas Bravas,20.5,url72
+48,Desserts,d2,Tortilla Española,7.65,url3
+48,Desserts,d3,Sangria,20.34,url100
+48,Desserts,d4,Tortilla Española,20.21,url30
+48,Desserts,d5,Patatas Bravas,13.28,url42
+49,Antipasti,a1,Tiramisu,22.32,url20
+49,Antipasti,a2,Ravioli,23.29,url16
+49,Antipasti,a3,Lasagna,20.01,url98
+49,Antipasti,a4,Bruschetta,24.64,url1
+49,Primi,p1,Spaghetti,11.26,url100
+49,Primi,p2,Ravioli,19.93,url48
+49,Primi,p3,Tiramisu,24.2,url44
+49,Primi,p4,Bruschetta,19.01,url27
+49,Secondi,s1,Ravioli,21.9,url30
+49,Secondi,s2,Tiramisu,16.25,url39
+49,Secondi,s3,Bruschetta,22.27,url45
+49,Dolci,d1,Margherita Pizza,21.31,url62
+49,Dolci,d2,Bruschetta,17.76,url74
+49,Dolci,d3,Bruschetta,23.76,url22
+49,Dolci,d4,Spaghetti,18.51,url90
+50,Mezze,m1,Grilled Octopus,21.68,url54
+50,Mezze,m2,Lamb Kebab,23.35,url72
+50,Mezze,m3,Hummus,22.69,url89
+50,Seafood,s1,Greek Salad,8.95,url91
+50,Seafood,s2,Grilled Octopus,12.3,url45
+50,Seafood,s3,Grilled Octopus,13.34,url9
+50,Seafood,s4,Greek Salad,5.97,url64
+50,Seafood,s5,Lamb Kebab,13.19,url69
+50,Grill,g1,Grilled Octopus,9.45,url10
+50,Grill,g2,Baklava,6.01,url69
+50,Grill,g3,Hummus,17.55,url6
+50,Desserts,d1,Grilled Octopus,11.52,url65
+50,Desserts,d2,Falafel,5.06,url9
+50,Desserts,d3,Falafel,13.91,url53
+51,Starters,s1,Burrito,20.46,url54
+51,Starters,s2,Chicken Taco,6.31,url33
+51,Starters,s3,Quesadilla,19.73,url53
+51,Tacos,t1,Chicken Taco,8.62,url98
+51,Tacos,t2,Nachos,14.83,url96
+51,Tacos,t3,Chicken Taco,17.07,url65
+51,Tacos,t4,Churros,19.56,url38
+51,Tacos,t5,Nachos,23.48,url84
+51,Mains,m1,Quesadilla,22.79,url23
+51,Mains,m2,Fajitas,22.65,url97
+51,Mains,m3,Chicken Taco,8.89,url41
+51,Desserts,d1,Quesadilla,11.76,url1
+51,Desserts,d2,Chicken Taco,8.95,url67
+51,Desserts,d3,Quesadilla,8.85,url90
+51,Desserts,d4,Nachos,22.51,url43
+52,Dim Sum,d1,Fortune Cookies,22.13,url52
+52,Dim Sum,d2,Fortune Cookies,20.7,url92
+52,Dim Sum,d3,Lo Mein,5.45,url84
+52,Dim Sum,d4,Sweet & Sour Chicken,24.49,url8
+52,Noodles,n1,Fried Rice,11.98,url18
+52,Noodles,n2,Lo Mein,14.81,url17
+52,Noodles,n3,Lo Mein,6.27,url13
+52,Rice Dishes,r1,Dumplings,12.49,url94
+52,Rice Dishes,r2,Fortune Cookies,10.6,url12
+52,Rice Dishes,r3,Fried Rice,7.31,url99
+52,Rice Dishes,r4,Lo Mein,18.56,url82
+52,Rice Dishes,r5,Lo Mein,23.71,url53
+52,Desserts,d1,Sweet & Sour Chicken,11.38,url44
+52,Desserts,d2,Lo Mein,22.84,url20
+52,Desserts,d3,Fortune Cookies,5.14,url87
+53,Starters,s1,Naan,16.6,url67
+53,Starters,s2,Gulab Jamun,11.76,url50
+53,Starters,s3,Biryani,7.01,url28
+53,Curries,c1,Samosas,7.35,url43
+53,Curries,c2,Biryani,18.5,url91
+53,Curries,c3,Butter Chicken,24.28,url48
+53,Breads,b1,Paneer Tikka,9.39,url16
+53,Breads,b2,Biryani,15.99,url49
+53,Breads,b3,Paneer Tikka,19.89,url79
+53,Breads,b4,Gulab Jamun,20.51,url29
+53,Breads,b5,Biryani,7.33,url65
+53,Desserts,d1,Butter Chicken,24.98,url51
+53,Desserts,d2,Paneer Tikka,6.37,url28
+53,Desserts,d3,Paneer Tikka,12.56,url53
+53,Desserts,d4,Gulab Jamun,18.9,url17
+54,Sushi,s1,Mochi,11.5,url4
+54,Sushi,s2,Teriyaki,18.24,url12
+54,Sushi,s3,Salmon Sashimi,12.19,url90
+54,Sushi,s4,Salmon Sashimi,7.77,url57
+54,Sushi,s5,Teriyaki,11.45,url43
+54,Sashimi,s1,Teriyaki,23.47,url47
+54,Sashimi,s2,Teriyaki,18.19,url68
+54,Sashimi,s3,California Roll,24.68,url19
+54,Sashimi,s4,Ramen,14.4,url24
+54,Noodles,n1,Mochi,17.16,url40
+54,Noodles,n2,Salmon Sashimi,13.18,url49
+54,Noodles,n3,Ramen,7.7,url61
+54,Noodles,n4,Salmon Sashimi,14.77,url18
+54,Noodles,n5,Ramen,15.16,url33
+54,Desserts,d1,California Roll,5.91,url36
+54,Desserts,d2,California Roll,22.55,url11
+54,Desserts,d3,Ramen,18.76,url98
+55,Starters,s1,Spring Rolls,5.01,url53
+55,Starters,s2,Green Curry,11.69,url73
+55,Starters,s3,Spring Rolls,7.33,url4
+55,Starters,s4,Mango Sticky Rice,6.61,url59
+55,Starters,s5,Tom Yum Soup,21.41,url91
+55,Curries,c1,Tom Yum Soup,18.94,url5
+55,Curries,c2,Spring Rolls,19.83,url28
+55,Curries,c3,Pad Thai,16.53,url59
+55,Curries,c4,Tom Yum Soup,19.21,url89
+55,Noodles,n1,Green Curry,18.54,url2
+55,Noodles,n2,Spring Rolls,12.22,url58
+55,Noodles,n3,Mango Sticky Rice,24.67,url35
+55,Noodles,n4,Tom Yum Soup,17.61,url30
+55,Desserts,d1,Tom Yum Soup,13.71,url9
+55,Desserts,d2,Pad Thai,21.01,url93
+55,Desserts,d3,Pad Thai,16.25,url40
+55,Desserts,d4,Green Curry,10.19,url8
+55,Desserts,d5,Green Curry,12.85,url22
+56,Entrées,e1,Camembert,11.48,url53
+56,Entrées,e2,Ratatouille,24.61,url87
+56,Entrées,e3,Ratatouille,7.12,url77
+56,Entrées,e4,Baguette,24.35,url86
+56,Plats Principaux,p1,Coq au Vin,5.06,url71
+56,Plats Principaux,p2,Camembert,13.0,url30
+56,Plats Principaux,p3,Crème Brûlée,9.68,url87
+56,Plats Principaux,p4,Baguette,18.57,url18
+56,Fromages,f1,Baguette,11.8,url15
+56,Fromages,f2,Baguette,8.75,url40
+56,Fromages,f3,Ratatouille,8.67,url21
+56,Fromages,f4,Crème Brûlée,16.28,url71
+56,Desserts,d1,Camembert,14.88,url50
+56,Desserts,d2,Crème Brûlée,11.8,url96
+56,Desserts,d3,Baguette,7.09,url8
+56,Desserts,d4,Crème Brûlée,16.23,url47
+56,Desserts,d5,Baguette,13.33,url73
+57,Appetizers,a1,Wings,16.54,url37
+57,Appetizers,a2,Cheeseburger,8.11,url54
+57,Appetizers,a3,Wings,15.95,url90
+57,Burgers,b1,Cobb Salad,17.24,url6
+57,Burgers,b2,Fried Chicken,6.32,url69
+57,Burgers,b3,Wings,22.64,url48
+57,Hot Dogs,h1,Wings,7.11,url41
+57,Hot Dogs,h2,Cheeseburger,7.5,url64
+57,Hot Dogs,h3,Chili Dog,17.08,url65
+57,Hot Dogs,h4,Cheeseburger,23.19,url49
+57,Desserts,d1,Fried Chicken,6.08,url88
+57,Desserts,d2,Cheeseburger,23.36,url2
+57,Desserts,d3,Chili Dog,17.2,url65
+58,Appetizers,a1,Tzatziki,7.36,url48
+58,Appetizers,a2,Tzatziki,24.31,url24
+58,Appetizers,a3,Greek Salad,23.93,url10
+58,Salads,s1,Tzatziki,6.32,url6
+58,Salads,s2,Souvlaki,13.26,url7
+58,Salads,s3,Greek Salad,23.31,url36
+58,Salads,s4,Baklava,10.52,url96
+58,Mains,m1,Baklava,18.51,url68
+58,Mains,m2,Greek Salad,14.11,url33
+58,Mains,m3,Souvlaki,18.48,url46
+58,Mains,m4,Souvlaki,11.95,url63
+58,Desserts,d1,Moussaka,6.23,url32
+58,Desserts,d2,Tzatziki,9.63,url73
+58,Desserts,d3,Tzatziki,14.55,url25
+58,Desserts,d4,Baklava,24.17,url15
+58,Desserts,d5,Baklava,16.96,url32
+59,Starters,s1,Spring Rolls,5.81,url94
+59,Starters,s2,Lemongrass Chicken,6.73,url81
+59,Starters,s3,Lemongrass Chicken,18.79,url89
+59,Starters,s4,Lemongrass Chicken,23.56,url35
+59,Noodle Soups,n1,Bun Thit Nuong,10.91,url40
+59,Noodle Soups,n2,Che,24.07,url22
+59,Noodle Soups,n3,Banh Mi,7.62,url58
+59,Rice Dishes,r1,Pho,12.83,url83
+59,Rice Dishes,r2,Che,23.81,url63
+59,Rice Dishes,r3,Pho,22.59,url37
+59,Rice Dishes,r4,Pho,9.34,url50
+59,Desserts,d1,Spring Rolls,18.43,url53
+59,Desserts,d2,Lemongrass Chicken,17.51,url64
+59,Desserts,d3,Banh Mi,9.82,url52
+59,Desserts,d4,Che,21.86,url63
+60,Tapas,t1,Paella,24.47,url99
+60,Tapas,t2,Churros,12.72,url37
+60,Tapas,t3,Churros,7.37,url90
+60,Tapas,t4,Paella,8.45,url34
+60,Mains,m1,Churros,10.94,url31
+60,Mains,m2,Gambas al Ajillo,11.73,url87
+60,Mains,m3,Sangria,17.97,url63
+60,Mains,m4,Churros,21.11,url43
+60,Mains,m5,Tortilla Española,23.0,url85
+60,Seafood,s1,Tortilla Española,9.35,url78
+60,Seafood,s2,Gambas al Ajillo,10.21,url36
+60,Seafood,s3,Tortilla Española,10.42,url4
+60,Desserts,d1,Sangria,20.15,url27
+60,Desserts,d2,Gambas al Ajillo,19.07,url14
+60,Desserts,d3,Gambas al Ajillo,19.13,url68
+60,Desserts,d4,Tortilla Española,16.91,url55
+61,Antipasti,a1,Ravioli,8.85,url69
+61,Antipasti,a2,Margherita Pizza,11.22,url45
+61,Antipasti,a3,Lasagna,5.88,url55
+61,Primi,p1,Lasagna,22.95,url45
+61,Primi,p2,Tiramisu,13.57,url69
+61,Primi,p3,Lasagna,10.5,url28
+61,Primi,p4,Spaghetti,8.35,url16
+61,Primi,p5,Bruschetta,17.08,url68
+61,Secondi,s1,Bruschetta,18.8,url30
+61,Secondi,s2,Bruschetta,21.24,url39
+61,Secondi,s3,Bruschetta,24.01,url45
+61,Secondi,s4,Lasagna,5.72,url32
+61,Secondi,s5,Lasagna,15.85,url7
+61,Dolci,d1,Bruschetta,16.34,url46
+61,Dolci,d2,Margherita Pizza,22.01,url69
+61,Dolci,d3,Spaghetti,17.18,url55
+61,Dolci,d4,Tiramisu,5.93,url31
+61,Dolci,d5,Spaghetti,7.33,url82
+62,Mezze,m1,Greek Salad,6.19,url98
+62,Mezze,m2,Greek Salad,17.35,url50
+62,Mezze,m3,Baklava,20.66,url30
+62,Mezze,m4,Baklava,14.15,url15
+62,Seafood,s1,Grilled Octopus,21.57,url46
+62,Seafood,s2,Hummus,17.73,url69
+62,Seafood,s3,Greek Salad,24.43,url85
+62,Grill,g1,Lamb Kebab,11.17,url74
+62,Grill,g2,Falafel,15.68,url41
+62,Grill,g3,Falafel,6.89,url41
+62,Grill,g4,Lamb Kebab,20.27,url41
+62,Desserts,d1,Falafel,13.98,url39
+62,Desserts,d2,Baklava,12.37,url3
+62,Desserts,d3,Falafel,12.41,url2
+62,Desserts,d4,Falafel,24.03,url84
+62,Desserts,d5,Grilled Octopus,18.29,url43
+63,Starters,s1,Churros,7.05,url25
+63,Starters,s2,Churros,20.48,url23
+63,Starters,s3,Nachos,14.84,url63
+63,Tacos,t1,Nachos,18.63,url47
+63,Tacos,t2,Fajitas,12.62,url31
+63,Tacos,t3,Burrito,24.07,url80
+63,Tacos,t4,Fajitas,14.2,url73
+63,Tacos,t5,Burrito,21.29,url10
+63,Mains,m1,Fajitas,12.11,url73
+63,Mains,m2,Quesadilla,22.32,url68
+63,Mains,m3,Chicken Taco,24.52,url12
+63,Mains,m4,Fajitas,11.06,url64
+63,Mains,m5,Chicken Taco,22.38,url68
+63,Desserts,d1,Burrito,19.77,url13
+63,Desserts,d2,Churros,7.56,url94
+63,Desserts,d3,Churros,12.14,url69
+64,Dim Sum,d1,Lo Mein,5.25,url27
+64,Dim Sum,d2,Fortune Cookies,11.72,url42
+64,Dim Sum,d3,Dumplings,22.16,url43
+64,Dim Sum,d4,Dumplings,9.32,url79
+64,Noodles,n1,Sweet & Sour Chicken,8.0,url73
+64,Noodles,n2,Dumplings,11.05,url62
+64,Noodles,n3,Dumplings,20.95,url39
+64,Noodles,n4,Sweet & Sour Chicken,10.52,url9
+64,Noodles,n5,Fortune Cookies,24.58,url43
+64,Rice Dishes,r1,Sweet & Sour Chicken,7.36,url56
+64,Rice Dishes,r2,Lo Mein,5.8,url76
+64,Rice Dishes,r3,Dumplings,22.56,url65
+64,Rice Dishes,r4,Sweet & Sour Chicken,23.63,url67
+64,Desserts,d1,Fortune Cookies,22.22,url53
+64,Desserts,d2,Dumplings,21.47,url73
+64,Desserts,d3,Fried Rice,13.23,url77
+64,Desserts,d4,Dumplings,8.82,url98
+65,Starters,s1,Gulab Jamun,23.59,url78
+65,Starters,s2,Biryani,24.54,url37
+65,Starters,s3,Naan,12.81,url94
+65,Curries,c1,Paneer Tikka,23.72,url81
+65,Curries,c2,Paneer Tikka,5.67,url91
+65,Curries,c3,Naan,14.01,url73
+65,Breads,b1,Samosas,19.63,url92
+65,Breads,b2,Gulab Jamun,10.4,url94
+65,Breads,b3,Biryani,13.97,url1
+65,Breads,b4,Samosas,20.33,url73
+65,Desserts,d1,Biryani,20.99,url88
+65,Desserts,d2,Samosas,6.91,url97
+65,Desserts,d3,Samosas,23.77,url89
+65,Desserts,d4,Paneer Tikka,5.57,url38
+66,Sushi,s1,Teriyaki,11.48,url3
+66,Sushi,s2,Mochi,13.13,url7
+66,Sushi,s3,Mochi,8.52,url32
+66,Sushi,s4,California Roll,16.6,url60
+66,Sashimi,s1,Tempura,19.51,url75
+66,Sashimi,s2,California Roll,17.69,url34
+66,Sashimi,s3,Mochi,21.59,url92
+66,Noodles,n1,California Roll,10.87,url42
+66,Noodles,n2,Teriyaki,21.22,url66
+66,Noodles,n3,Teriyaki,9.82,url1
+66,Noodles,n4,Mochi,21.19,url11
+66,Noodles,n5,California Roll,11.15,url88
+66,Desserts,d1,Salmon Sashimi,15.87,url45
+66,Desserts,d2,Tempura,22.75,url53
+66,Desserts,d3,Teriyaki,8.54,url43
+67,Starters,s1,Green Curry,15.43,url2
+67,Starters,s2,Pad Thai,7.21,url78
+67,Starters,s3,Pad Thai,5.38,url11
+67,Curries,c1,Spring Rolls,10.92,url83
+67,Curries,c2,Pad Thai,21.91,url71
+67,Curries,c3,Spring Rolls,9.09,url56
+67,Curries,c4,Mango Sticky Rice,18.48,url39
+67,Curries,c5,Green Curry,8.79,url91
+67,Noodles,n1,Tom Yum Soup,6.26,url30
+67,Noodles,n2,Spring Rolls,16.25,url36
+67,Noodles,n3,Tom Yum Soup,17.5,url54
+67,Desserts,d1,Mango Sticky Rice,7.03,url15
+67,Desserts,d2,Spring Rolls,5.02,url65
+67,Desserts,d3,Tom Yum Soup,14.57,url69
+68,Entrées,e1,Crème Brûlée,24.95,url76
+68,Entrées,e2,Coq au Vin,19.77,url28
+68,Entrées,e3,Baguette,21.31,url52
+68,Entrées,e4,Ratatouille,6.12,url80
+68,Entrées,e5,Crème Brûlée,14.68,url11
+68,Plats Principaux,p1,Baguette,8.23,url93
+68,Plats Principaux,p2,Camembert,9.76,url55
+68,Plats Principaux,p3,Baguette,16.36,url10
+68,Fromages,f1,Camembert,23.52,url45
+68,Fromages,f2,Camembert,11.59,url52
+68,Fromages,f3,Camembert,15.47,url87
+68,Desserts,d1,Baguette,17.76,url40
+68,Desserts,d2,Ratatouille,17.98,url40
+68,Desserts,d3,Ratatouille,13.89,url38
+69,Appetizers,a1,Fried Chicken,21.83,url97
+69,Appetizers,a2,Chili Dog,10.12,url26
+69,Appetizers,a3,Cheeseburger,11.43,url66
+69,Appetizers,a4,Wings,22.87,url81
+69,Appetizers,a5,Fried Chicken,21.11,url66
+69,Burgers,b1,Cheeseburger,12.95,url31
+69,Burgers,b2,Chili Dog,15.19,url65
+69,Burgers,b3,Chili Dog,11.47,url40
+69,Hot Dogs,h1,Wings,24.33,url47
+69,Hot Dogs,h2,Chili Dog,10.2,url62
+69,Hot Dogs,h3,Cobb Salad,15.02,url23
+69,Hot Dogs,h4,Cheeseburger,9.41,url21
+69,Desserts,d1,Wings,13.01,url76
+69,Desserts,d2,Cobb Salad,9.22,url58
+69,Desserts,d3,Cheeseburger,9.15,url79
+69,Desserts,d4,Apple Pie,24.98,url89
+70,Appetizers,a1,Souvlaki,17.89,url88
+70,Appetizers,a2,Gyros,5.07,url87
+70,Appetizers,a3,Souvlaki,21.91,url43
+70,Appetizers,a4,Tzatziki,18.37,url34
+70,Appetizers,a5,Souvlaki,16.54,url60
+70,Salads,s1,Gyros,24.79,url12
+70,Salads,s2,Souvlaki,16.15,url64
+70,Salads,s3,Tzatziki,19.2,url79
+70,Mains,m1,Greek Salad,22.14,url5
+70,Mains,m2,Greek Salad,10.19,url66
+70,Mains,m3,Souvlaki,13.0,url3
+70,Mains,m4,Tzatziki,21.42,url19
+70,Mains,m5,Greek Salad,22.98,url50
+70,Desserts,d1,Souvlaki,7.31,url8
+70,Desserts,d2,Moussaka,14.79,url73
+70,Desserts,d3,Baklava,6.51,url61
+70,Desserts,d4,Moussaka,12.38,url46
+70,Desserts,d5,Souvlaki,6.09,url57
+71,Starters,s1,Banh Mi,15.37,url75
+71,Starters,s2,Banh Mi,21.93,url42
+71,Starters,s3,Pho,6.41,url89
+71,Starters,s4,Lemongrass Chicken,6.44,url72
+71,Starters,s5,Banh Mi,11.91,url12
+71,Noodle Soups,n1,Lemongrass Chicken,9.0,url43
+71,Noodle Soups,n2,Lemongrass Chicken,20.4,url3
+71,Noodle Soups,n3,Pho,6.64,url10
+71,Noodle Soups,n4,Lemongrass Chicken,24.74,url69
+71,Rice Dishes,r1,Che,20.79,url22
+71,Rice Dishes,r2,Lemongrass Chicken,23.88,url28
+71,Rice Dishes,r3,Lemongrass Chicken,5.57,url28
+71,Rice Dishes,r4,Bun Thit Nuong,23.7,url78
+71,Desserts,d1,Banh Mi,16.58,url98
+71,Desserts,d2,Bun Thit Nuong,9.05,url99
+71,Desserts,d3,Pho,6.78,url43
+71,Desserts,d4,Banh Mi,16.69,url32
+72,Tapas,t1,Paella,7.12,url78
+72,Tapas,t2,Patatas Bravas,13.13,url9
+72,Tapas,t3,Sangria,14.59,url33
+72,Mains,m1,Paella,12.97,url27
+72,Mains,m2,Tortilla Española,6.47,url99
+72,Mains,m3,Gambas al Ajillo,21.74,url26
+72,Seafood,s1,Sangria,20.79,url57
+72,Seafood,s2,Sangria,5.76,url18
+72,Seafood,s3,Tortilla Española,6.81,url94
+72,Seafood,s4,Tortilla Española,20.36,url32
+72,Desserts,d1,Paella,17.72,url71
+72,Desserts,d2,Patatas Bravas,23.57,url32
+72,Desserts,d3,Gambas al Ajillo,12.86,url5
+73,Antipasti,a1,Ravioli,5.94,url56
+73,Antipasti,a2,Spaghetti,11.18,url16
+73,Antipasti,a3,Bruschetta,25.0,url48
+73,Antipasti,a4,Tiramisu,11.29,url79
+73,Primi,p1,Ravioli,19.57,url52
+73,Primi,p2,Tiramisu,18.38,url80
+73,Primi,p3,Lasagna,15.85,url28
+73,Secondi,s1,Tiramisu,21.41,url17
+73,Secondi,s2,Tiramisu,16.82,url85
+73,Secondi,s3,Tiramisu,10.42,url82
+73,Secondi,s4,Spaghetti,15.15,url80
+73,Dolci,d1,Tiramisu,8.17,url100
+73,Dolci,d2,Margherita Pizza,23.64,url1
+73,Dolci,d3,Margherita Pizza,10.39,url58
+73,Dolci,d4,Margherita Pizza,13.62,url91
+74,Mezze,m1,Baklava,10.69,url86
+74,Mezze,m2,Greek Salad,9.84,url32
+74,Mezze,m3,Greek Salad,22.84,url93
+74,Seafood,s1,Lamb Kebab,9.24,url83
+74,Seafood,s2,Grilled Octopus,18.02,url62
+74,Seafood,s3,Grilled Octopus,21.4,url81
+74,Grill,g1,Falafel,19.43,url28
+74,Grill,g2,Baklava,18.98,url45
+74,Grill,g3,Baklava,11.46,url34
+74,Grill,g4,Lamb Kebab,11.61,url28
+74,Grill,g5,Hummus,6.6,url59
+74,Desserts,d1,Lamb Kebab,14.32,url14
+74,Desserts,d2,Grilled Octopus,14.2,url75
+74,Desserts,d3,Hummus,24.47,url94
+74,Desserts,d4,Greek Salad,21.79,url11
+74,Desserts,d5,Baklava,6.97,url38
+75,Starters,s1,Burrito,23.32,url76
+75,Starters,s2,Chicken Taco,7.29,url54
+75,Starters,s3,Burrito,22.0,url98
+75,Starters,s4,Chicken Taco,20.54,url92
+75,Starters,s5,Nachos,9.77,url46
+75,Tacos,t1,Burrito,10.78,url40
+75,Tacos,t2,Burrito,24.24,url21
+75,Tacos,t3,Churros,8.23,url98
+75,Mains,m1,Chicken Taco,18.66,url24
+75,Mains,m2,Fajitas,11.64,url64
+75,Mains,m3,Fajitas,24.36,url42
+75,Desserts,d1,Quesadilla,7.68,url99
+75,Desserts,d2,Fajitas,6.87,url27
+75,Desserts,d3,Churros,5.57,url97
+75,Desserts,d4,Churros,8.97,url53
+76,Dim Sum,d1,Lo Mein,12.69,url25
+76,Dim Sum,d2,Fried Rice,10.79,url69
+76,Dim Sum,d3,Sweet & Sour Chicken,16.3,url58
+76,Dim Sum,d4,Lo Mein,11.58,url75
+76,Dim Sum,d5,Sweet & Sour Chicken,7.9,url26
+76,Noodles,n1,Fried Rice,13.21,url83
+76,Noodles,n2,Sweet & Sour Chicken,5.54,url93
+76,Noodles,n3,Lo Mein,16.71,url80
+76,Rice Dishes,r1,Fried Rice,22.79,url3
+76,Rice Dishes,r2,Sweet & Sour Chicken,24.32,url31
+76,Rice Dishes,r3,Fortune Cookies,13.14,url84
+76,Desserts,d1,Lo Mein,14.24,url75
+76,Desserts,d2,Sweet & Sour Chicken,6.12,url79
+76,Desserts,d3,Sweet & Sour Chicken,9.92,url10
+76,Desserts,d4,Dumplings,22.41,url10
+77,Starters,s1,Naan,16.99,url28
+77,Starters,s2,Butter Chicken,5.97,url6
+77,Starters,s3,Butter Chicken,12.11,url61
+77,Curries,c1,Samosas,14.79,url68
+77,Curries,c2,Samosas,7.32,url58
+77,Curries,c3,Gulab Jamun,21.54,url22
+77,Curries,c4,Butter Chicken,13.25,url59
+77,Curries,c5,Naan,14.39,url38
+77,Breads,b1,Gulab Jamun,15.56,url82
+77,Breads,b2,Butter Chicken,8.79,url100
+77,Breads,b3,Butter Chicken,12.84,url5
+77,Breads,b4,Samosas,16.43,url49
+77,Breads,b5,Butter Chicken,24.82,url95
+77,Desserts,d1,Gulab Jamun,8.07,url72
+77,Desserts,d2,Butter Chicken,24.14,url95
+77,Desserts,d3,Paneer Tikka,5.12,url99
+77,Desserts,d4,Biryani,12.54,url89
+77,Desserts,d5,Biryani,19.97,url30
+78,Sushi,s1,Ramen,10.3,url67
+78,Sushi,s2,Mochi,10.71,url41
+78,Sushi,s3,California Roll,20.57,url24
+78,Sashimi,s1,California Roll,15.74,url12
+78,Sashimi,s2,Tempura,24.64,url59
+78,Sashimi,s3,Mochi,11.25,url94
+78,Sashimi,s4,Tempura,19.52,url34
+78,Sashimi,s5,California Roll,16.62,url33
+78,Noodles,n1,Tempura,7.64,url2
+78,Noodles,n2,Teriyaki,23.18,url76
+78,Noodles,n3,Salmon Sashimi,17.43,url35
+78,Desserts,d1,Ramen,9.83,url34
+78,Desserts,d2,California Roll,17.14,url87
+78,Desserts,d3,Tempura,16.78,url43
+78,Desserts,d4,Teriyaki,12.92,url60
+78,Desserts,d5,Mochi,18.99,url66
+79,Starters,s1,Green Curry,10.07,url54
+79,Starters,s2,Green Curry,15.62,url34
+79,Starters,s3,Tom Yum Soup,23.49,url13
+79,Starters,s4,Pad Thai,19.97,url21
+79,Starters,s5,Pad Thai,24.22,url68
+79,Curries,c1,Spring Rolls,14.85,url78
+79,Curries,c2,Pad Thai,22.24,url26
+79,Curries,c3,Tom Yum Soup,23.25,url31
+79,Curries,c4,Spring Rolls,16.17,url56
+79,Noodles,n1,Pad Thai,21.12,url8
+79,Noodles,n2,Spring Rolls,11.0,url85
+79,Noodles,n3,Pad Thai,22.29,url3
+79,Desserts,d1,Mango Sticky Rice,15.2,url45
+79,Desserts,d2,Tom Yum Soup,11.94,url84
+79,Desserts,d3,Pad Thai,8.97,url32
+79,Desserts,d4,Tom Yum Soup,15.6,url15
+79,Desserts,d5,Mango Sticky Rice,19.07,url77
+80,Entrées,e1,Ratatouille,21.56,url27
+80,Entrées,e2,Coq au Vin,24.64,url91
+80,Entrées,e3,Baguette,20.77,url58
+80,Entrées,e4,Ratatouille,25.0,url96
+80,Plats Principaux,p1,Crème Brûlée,18.21,url41
+80,Plats Principaux,p2,Crème Brûlée,15.6,url24
+80,Plats Principaux,p3,Camembert,12.24,url33
+80,Plats Principaux,p4,Coq au Vin,12.15,url56
+80,Plats Principaux,p5,Crème Brûlée,17.91,url47
+80,Fromages,f1,Camembert,20.29,url45
+80,Fromages,f2,Coq au Vin,10.24,url47
+80,Fromages,f3,Coq au Vin,9.63,url65
+80,Fromages,f4,Baguette,19.93,url90
+80,Fromages,f5,Camembert,12.93,url74
+80,Desserts,d1,Crème Brûlée,22.08,url60
+80,Desserts,d2,Ratatouille,18.19,url77
+80,Desserts,d3,Crème Brûlée,17.45,url75
+80,Desserts,d4,Camembert,9.89,url31
+81,Appetizers,a1,Cobb Salad,17.91,url4
+81,Appetizers,a2,Chili Dog,6.05,url90
+81,Appetizers,a3,Chili Dog,18.95,url31
+81,Burgers,b1,Fried Chicken,22.77,url29
+81,Burgers,b2,Apple Pie,13.6,url25
+81,Burgers,b3,Apple Pie,6.8,url73
+81,Burgers,b4,Cheeseburger,10.19,url72
+81,Burgers,b5,Apple Pie,14.15,url34
+81,Hot Dogs,h1,Cobb Salad,19.11,url82
+81,Hot Dogs,h2,Cheeseburger,22.68,url20
+81,Hot Dogs,h3,Fried Chicken,7.5,url74
+81,Hot Dogs,h4,Chili Dog,6.15,url65
+81,Hot Dogs,h5,Apple Pie,18.87,url38
+81,Desserts,d1,Wings,14.59,url44
+81,Desserts,d2,Wings,18.65,url55
+81,Desserts,d3,Cobb Salad,10.13,url85
+81,Desserts,d4,Apple Pie,24.65,url44
+82,Appetizers,a1,Gyros,12.81,url26
+82,Appetizers,a2,Moussaka,7.89,url76
+82,Appetizers,a3,Gyros,18.02,url61
+82,Appetizers,a4,Greek Salad,16.0,url59
+82,Salads,s1,Moussaka,15.66,url89
+82,Salads,s2,Gyros,19.18,url36
+82,Salads,s3,Baklava,22.4,url21
+82,Salads,s4,Tzatziki,18.08,url2
+82,Mains,m1,Souvlaki,19.04,url42
+82,Mains,m2,Moussaka,5.64,url31
+82,Mains,m3,Moussaka,17.31,url79
+82,Mains,m4,Tzatziki,9.05,url96
+82,Mains,m5,Greek Salad,8.47,url74
+82,Desserts,d1,Souvlaki,12.02,url6
+82,Desserts,d2,Greek Salad,9.58,url13
+82,Desserts,d3,Greek Salad,19.72,url90
+82,Desserts,d4,Baklava,14.13,url70
+82,Desserts,d5,Souvlaki,12.33,url27
+83,Starters,s1,Banh Mi,22.17,url94
+83,Starters,s2,Spring Rolls,8.41,url73
+83,Starters,s3,Bun Thit Nuong,7.59,url67
+83,Noodle Soups,n1,Che,5.37,url12
+83,Noodle Soups,n2,Che,8.13,url26
+83,Noodle Soups,n3,Pho,24.46,url74
+83,Rice Dishes,r1,Spring Rolls,8.12,url98
+83,Rice Dishes,r2,Bun Thit Nuong,14.78,url72
+83,Rice Dishes,r3,Spring Rolls,19.98,url10
+83,Desserts,d1,Che,24.44,url68
+83,Desserts,d2,Lemongrass Chicken,5.23,url22
+83,Desserts,d3,Spring Rolls,16.27,url60
+83,Desserts,d4,Che,11.23,url68
+84,Tapas,t1,Paella,8.1,url42
+84,Tapas,t2,Paella,21.05,url17
+84,Tapas,t3,Churros,19.1,url42
+84,Mains,m1,Sangria,19.68,url87
+84,Mains,m2,Patatas Bravas,14.58,url5
+84,Mains,m3,Gambas al Ajillo,13.7,url89
+84,Mains,m4,Tortilla Española,11.29,url50
+84,Seafood,s1,Tortilla Española,12.32,url34
+84,Seafood,s2,Gambas al Ajillo,17.62,url67
+84,Seafood,s3,Churros,14.44,url29
+84,Seafood,s4,Sangria,22.81,url62
+84,Desserts,d1,Churros,16.03,url77
+84,Desserts,d2,Patatas Bravas,16.87,url47
+84,Desserts,d3,Patatas Bravas,6.95,url88
+85,Antipasti,a1,Bruschetta,17.13,url34
+85,Antipasti,a2,Ravioli,6.76,url92
+85,Antipasti,a3,Lasagna,17.25,url15
+85,Antipasti,a4,Ravioli,9.24,url42
+85,Primi,p1,Lasagna,11.42,url94
+85,Primi,p2,Margherita Pizza,11.83,url69
+85,Primi,p3,Tiramisu,15.94,url46
+85,Secondi,s1,Ravioli,5.34,url13
+85,Secondi,s2,Bruschetta,12.25,url90
+85,Secondi,s3,Tiramisu,9.2,url15
+85,Dolci,d1,Margherita Pizza,13.24,url100
+85,Dolci,d2,Spaghetti,16.88,url100
+85,Dolci,d3,Margherita Pizza,12.3,url95
+85,Dolci,d4,Ravioli,7.69,url96
+86,Mezze,m1,Greek Salad,13.68,url22
+86,Mezze,m2,Hummus,22.48,url64
+86,Mezze,m3,Falafel,19.24,url57
+86,Seafood,s1,Grilled Octopus,15.73,url63
+86,Seafood,s2,Falafel,16.78,url32
+86,Seafood,s3,Greek Salad,24.31,url69
+86,Seafood,s4,Baklava,20.5,url28
+86,Seafood,s5,Lamb Kebab,16.1,url95
+86,Grill,g1,Hummus,13.85,url95
+86,Grill,g2,Lamb Kebab,13.6,url83
+86,Grill,g3,Hummus,11.23,url72
+86,Grill,g4,Hummus,11.01,url3
+86,Grill,g5,Grilled Octopus,12.22,url7
+86,Desserts,d1,Grilled Octopus,7.19,url14
+86,Desserts,d2,Lamb Kebab,24.57,url80
+86,Desserts,d3,Lamb Kebab,21.79,url93
+86,Desserts,d4,Lamb Kebab,8.49,url90
+86,Desserts,d5,Lamb Kebab,6.88,url54
+87,Starters,s1,Fajitas,24.77,url60
+87,Starters,s2,Burrito,15.6,url13
+87,Starters,s3,Fajitas,16.25,url26
+87,Starters,s4,Chicken Taco,13.02,url26
+87,Starters,s5,Churros,22.84,url97
+87,Tacos,t1,Chicken Taco,24.49,url37
+87,Tacos,t2,Churros,17.53,url27
+87,Tacos,t3,Chicken Taco,7.04,url60
+87,Tacos,t4,Nachos,5.51,url33
+87,Tacos,t5,Fajitas,24.09,url62
+87,Mains,m1,Quesadilla,22.49,url39
+87,Mains,m2,Nachos,22.81,url84
+87,Mains,m3,Churros,24.75,url41
+87,Mains,m4,Chicken Taco,23.64,url49
+87,Mains,m5,Quesadilla,8.25,url74
+87,Desserts,d1,Churros,13.38,url37
+87,Desserts,d2,Churros,14.51,url75
+87,Desserts,d3,Fajitas,14.53,url28
+87,Desserts,d4,Burrito,14.94,url4
+88,Dim Sum,d1,Dumplings,20.84,url52
+88,Dim Sum,d2,Fried Rice,5.57,url20
+88,Dim Sum,d3,Sweet & Sour Chicken,10.5,url93
+88,Dim Sum,d4,Sweet & Sour Chicken,24.27,url6
+88,Noodles,n1,Fried Rice,22.65,url8
+88,Noodles,n2,Fried Rice,24.45,url53
+88,Noodles,n3,Dumplings,7.98,url33
+88,Noodles,n4,Sweet & Sour Chicken,21.0,url24
+88,Rice Dishes,r1,Sweet & Sour Chicken,19.41,url82
+88,Rice Dishes,r2,Dumplings,10.68,url63
+88,Rice Dishes,r3,Fortune Cookies,5.06,url52
+88,Rice Dishes,r4,Fried Rice,10.84,url10
+88,Desserts,d1,Sweet & Sour Chicken,15.51,url30
+88,Desserts,d2,Dumplings,12.78,url9
+88,Desserts,d3,Lo Mein,20.74,url97
+88,Desserts,d4,Sweet & Sour Chicken,18.52,url47
+88,Desserts,d5,Dumplings,12.53,url76
+89,Starters,s1,Biryani,9.53,url65
+89,Starters,s2,Butter Chicken,23.55,url64
+89,Starters,s3,Biryani,16.21,url52
+89,Curries,c1,Samosas,13.66,url64
+89,Curries,c2,Naan,9.61,url44
+89,Curries,c3,Naan,8.03,url95
+89,Curries,c4,Butter Chicken,7.86,url86
+89,Breads,b1,Biryani,23.32,url75
+89,Breads,b2,Biryani,6.79,url99
+89,Breads,b3,Paneer Tikka,20.07,url90
+89,Breads,b4,Samosas,24.1,url75
+89,Desserts,d1,Naan,14.4,url77
+89,Desserts,d2,Biryani,11.62,url76
+89,Desserts,d3,Paneer Tikka,6.87,url25
+90,Sushi,s1,Teriyaki,5.95,url64
+90,Sushi,s2,California Roll,9.78,url50
+90,Sushi,s3,Tempura,14.0,url45
+90,Sushi,s4,Tempura,7.28,url88
+90,Sushi,s5,California Roll,16.99,url24
+90,Sashimi,s1,Mochi,14.75,url71
+90,Sashimi,s2,California Roll,17.71,url58
+90,Sashimi,s3,Tempura,8.89,url26
+90,Sashimi,s4,Ramen,20.42,url11
+90,Sashimi,s5,California Roll,17.35,url100
+90,Noodles,n1,Ramen,16.76,url73
+90,Noodles,n2,Mochi,23.53,url43
+90,Noodles,n3,Mochi,7.22,url53
+90,Noodles,n4,Teriyaki,18.67,url63
+90,Noodles,n5,Teriyaki,21.82,url60
+90,Desserts,d1,Tempura,17.31,url100
+90,Desserts,d2,Teriyaki,17.35,url77
+90,Desserts,d3,Tempura,16.24,url82
+90,Desserts,d4,Tempura,22.35,url55
+90,Desserts,d5,Tempura,13.08,url7
+91,Starters,s1,Mango Sticky Rice,21.68,url79
+91,Starters,s2,Pad Thai,23.01,url29
+91,Starters,s3,Mango Sticky Rice,7.93,url66
+91,Curries,c1,Pad Thai,16.02,url71
+91,Curries,c2,Mango Sticky Rice,19.17,url45
+91,Curries,c3,Tom Yum Soup,10.8,url16
+91,Curries,c4,Pad Thai,7.34,url8
+91,Curries,c5,Pad Thai,17.21,url55
+91,Noodles,n1,Tom Yum Soup,17.91,url54
+91,Noodles,n2,Spring Rolls,22.86,url41
+91,Noodles,n3,Green Curry,22.19,url35
+91,Noodles,n4,Green Curry,19.3,url50
+91,Desserts,d1,Mango Sticky Rice,19.33,url59
+91,Desserts,d2,Tom Yum Soup,14.81,url62
+91,Desserts,d3,Mango Sticky Rice,8.48,url28
+91,Desserts,d4,Mango Sticky Rice,23.41,url77
+92,Entrées,e1,Escargot,22.16,url7
+92,Entrées,e2,Escargot,7.84,url84
+92,Entrées,e3,Crème Brûlée,21.51,url46
+92,Plats Principaux,p1,Escargot,19.13,url7
+92,Plats Principaux,p2,Crème Brûlée,14.47,url1
+92,Plats Principaux,p3,Coq au Vin,5.67,url68
+92,Plats Principaux,p4,Camembert,9.54,url6
+92,Plats Principaux,p5,Crème Brûlée,19.91,url44
+92,Fromages,f1,Escargot,11.56,url66
+92,Fromages,f2,Baguette,20.25,url71
+92,Fromages,f3,Crème Brûlée,14.95,url27
+92,Desserts,d1,Escargot,19.95,url36
+92,Desserts,d2,Escargot,17.29,url71
+92,Desserts,d3,Camembert,14.55,url68
+92,Desserts,d4,Coq au Vin,17.68,url60
+92,Desserts,d5,Escargot,11.36,url44
+93,Appetizers,a1,Wings,10.83,url96
+93,Appetizers,a2,Fried Chicken,10.6,url50
+93,Appetizers,a3,Fried Chicken,5.85,url96
+93,Appetizers,a4,Apple Pie,19.41,url78
+93,Appetizers,a5,Fried Chicken,9.95,url82
+93,Burgers,b1,Wings,14.66,url77
+93,Burgers,b2,Apple Pie,18.93,url80
+93,Burgers,b3,Wings,15.31,url22
+93,Hot Dogs,h1,Chili Dog,5.09,url93
+93,Hot Dogs,h2,Chili Dog,14.64,url72
+93,Hot Dogs,h3,Chili Dog,18.84,url76
+93,Hot Dogs,h4,Cobb Salad,6.57,url19
+93,Desserts,d1,Fried Chicken,23.54,url68
+93,Desserts,d2,Wings,18.03,url32
+93,Desserts,d3,Fried Chicken,21.18,url17
+94,Appetizers,a1,Souvlaki,10.88,url38
+94,Appetizers,a2,Greek Salad,10.61,url82
+94,Appetizers,a3,Tzatziki,14.89,url62
+94,Appetizers,a4,Souvlaki,7.05,url6
+94,Appetizers,a5,Moussaka,9.21,url74
+94,Salads,s1,Baklava,13.51,url60
+94,Salads,s2,Greek Salad,18.1,url11
+94,Salads,s3,Greek Salad,13.44,url76
+94,Mains,m1,Souvlaki,23.26,url26
+94,Mains,m2,Baklava,20.46,url11
+94,Mains,m3,Tzatziki,16.63,url31
+94,Mains,m4,Gyros,8.26,url61
+94,Mains,m5,Baklava,14.92,url61
+94,Desserts,d1,Greek Salad,15.63,url51
+94,Desserts,d2,Tzatziki,9.07,url14
+94,Desserts,d3,Tzatziki,17.1,url60
+94,Desserts,d4,Gyros,16.92,url63
+94,Desserts,d5,Greek Salad,17.77,url45
+95,Starters,s1,Lemongrass Chicken,13.35,url94
+95,Starters,s2,Pho,16.92,url93
+95,Starters,s3,Lemongrass Chicken,23.94,url39
+95,Noodle Soups,n1,Bun Thit Nuong,18.21,url73
+95,Noodle Soups,n2,Banh Mi,6.63,url49
+95,Noodle Soups,n3,Lemongrass Chicken,5.71,url16
+95,Rice Dishes,r1,Bun Thit Nuong,6.49,url92
+95,Rice Dishes,r2,Spring Rolls,19.15,url66
+95,Rice Dishes,r3,Lemongrass Chicken,20.75,url7
+95,Rice Dishes,r4,Bun Thit Nuong,7.1,url19
+95,Rice Dishes,r5,Pho,18.12,url86
+95,Desserts,d1,Banh Mi,15.97,url83
+95,Desserts,d2,Bun Thit Nuong,10.82,url22
+95,Desserts,d3,Pho,5.11,url28
+96,Tapas,t1,Sangria,18.44,url36
+96,Tapas,t2,Paella,19.44,url33
+96,Tapas,t3,Gambas al Ajillo,10.39,url100
+96,Tapas,t4,Tortilla Española,11.75,url96
+96,Mains,m1,Sangria,16.32,url37
+96,Mains,m2,Patatas Bravas,16.88,url90
+96,Mains,m3,Gambas al Ajillo,23.23,url21
+96,Mains,m4,Patatas Bravas,21.41,url41
+96,Mains,m5,Sangria,10.2,url98
+96,Seafood,s1,Sangria,24.0,url30
+96,Seafood,s2,Gambas al Ajillo,9.57,url55
+96,Seafood,s3,Tortilla Española,7.55,url19
+96,Seafood,s4,Churros,16.12,url38
+96,Seafood,s5,Tortilla Española,12.93,url65
+96,Desserts,d1,Paella,11.21,url68
+96,Desserts,d2,Tortilla Española,23.81,url61
+96,Desserts,d3,Patatas Bravas,9.76,url17
+96,Desserts,d4,Gambas al Ajillo,10.83,url1
+97,Antipasti,a1,Ravioli,13.79,url37
+97,Antipasti,a2,Ravioli,5.34,url78
+97,Antipasti,a3,Spaghetti,8.52,url65
+97,Antipasti,a4,Spaghetti,8.4,url12
+97,Primi,p1,Ravioli,12.17,url49
+97,Primi,p2,Bruschetta,18.65,url69
+97,Primi,p3,Ravioli,18.51,url56
+97,Primi,p4,Bruschetta,13.12,url100
+97,Primi,p5,Bruschetta,14.82,url50
+97,Secondi,s1,Ravioli,23.29,url32
+97,Secondi,s2,Bruschetta,23.02,url80
+97,Secondi,s3,Margherita Pizza,17.96,url100
+97,Secondi,s4,Bruschetta,16.69,url39
+97,Secondi,s5,Lasagna,15.1,url3
+97,Dolci,d1,Lasagna,9.18,url94
+97,Dolci,d2,Lasagna,6.84,url40
+97,Dolci,d3,Bruschetta,18.57,url44
+97,Dolci,d4,Spaghetti,10.34,url44
+97,Dolci,d5,Ravioli,22.92,url61
+98,Mezze,m1,Greek Salad,22.11,url72
+98,Mezze,m2,Greek Salad,7.36,url59
+98,Mezze,m3,Baklava,9.87,url50
+98,Mezze,m4,Grilled Octopus,18.63,url43
+98,Seafood,s1,Baklava,24.27,url43
+98,Seafood,s2,Falafel,22.84,url52
+98,Seafood,s3,Falafel,16.18,url26
+98,Seafood,s4,Hummus,7.24,url19
+98,Seafood,s5,Greek Salad,21.55,url96
+98,Grill,g1,Greek Salad,16.11,url59
+98,Grill,g2,Greek Salad,7.49,url36
+98,Grill,g3,Falafel,14.54,url8
+98,Grill,g4,Falafel,6.06,url45
+98,Desserts,d1,Lamb Kebab,24.16,url54
+98,Desserts,d2,Grilled Octopus,16.53,url48
+98,Desserts,d3,Lamb Kebab,17.21,url94
+98,Desserts,d4,Baklava,20.46,url18
+98,Desserts,d5,Lamb Kebab,10.94,url1
+99,Starters,s1,Churros,8.47,url39
+99,Starters,s2,Quesadilla,24.38,url68
+99,Starters,s3,Churros,21.6,url40
+99,Tacos,t1,Nachos,10.57,url57
+99,Tacos,t2,Fajitas,9.16,url23
+99,Tacos,t3,Nachos,22.15,url52
+99,Mains,m1,Quesadilla,7.3,url24
+99,Mains,m2,Churros,23.81,url68
+99,Mains,m3,Quesadilla,18.09,url68
+99,Mains,m4,Churros,21.77,url40
+99,Mains,m5,Quesadilla,22.85,url11
+99,Desserts,d1,Churros,7.81,url45
+99,Desserts,d2,Fajitas,18.78,url65
+99,Desserts,d3,Fajitas,14.19,url32
+99,Desserts,d4,Fajitas,8.64,url37
+99,Desserts,d5,Nachos,21.46,url11
+100,Dim Sum,d1,Dumplings,7.7,url72
+100,Dim Sum,d2,Sweet & Sour Chicken,13.37,url32
+100,Dim Sum,d3,Fried Rice,6.73,url75
+100,Dim Sum,d4,Fortune Cookies,12.4,url55
+100,Dim Sum,d5,Lo Mein,17.19,url5
+100,Noodles,n1,Fried Rice,23.82,url97
+100,Noodles,n2,Lo Mein,14.29,url51
+100,Noodles,n3,Lo Mein,19.12,url59
+100,Rice Dishes,r1,Lo Mein,14.81,url78
+100,Rice Dishes,r2,Lo Mein,13.19,url82
+100,Rice Dishes,r3,Dumplings,18.91,url52
+100,Desserts,d1,Dumplings,12.51,url13
+100,Desserts,d2,Sweet & Sour Chicken,13.4,url31
+100,Desserts,d3,Dumplings,9.25,url50
+100,Desserts,d4,Lo Mein,10.17,url7
+100,Desserts,d5,Dumplings,18.74,url52
+101,Starters,s1,Butter Chicken,14.39,url83
+101,Starters,s2,Paneer Tikka,15.57,url47
+101,Starters,s3,Samosas,12.76,url87
+101,Starters,s4,Naan,24.73,url38
+101,Starters,s5,Gulab Jamun,8.51,url24
+101,Curries,c1,Biryani,11.74,url69
+101,Curries,c2,Butter Chicken,7.17,url68
+101,Curries,c3,Naan,20.86,url45
+101,Breads,b1,Paneer Tikka,21.25,url8
+101,Breads,b2,Paneer Tikka,8.51,url94
+101,Breads,b3,Gulab Jamun,23.16,url1
+101,Desserts,d1,Paneer Tikka,20.8,url93
+101,Desserts,d2,Gulab Jamun,14.63,url46
+101,Desserts,d3,Samosas,13.02,url99
+101,Desserts,d4,Naan,14.76,url58
+102,Sushi,s1,Tempura,6.98,url71
+102,Sushi,s2,Mochi,8.14,url11
+102,Sushi,s3,Salmon Sashimi,7.56,url53
+102,Sushi,s4,Teriyaki,14.01,url65
+102,Sashimi,s1,Teriyaki,14.39,url19
+102,Sashimi,s2,Ramen,14.73,url87
+102,Sashimi,s3,Mochi,10.34,url39
+102,Sashimi,s4,Ramen,20.66,url92
+102,Noodles,n1,Ramen,8.51,url64
+102,Noodles,n2,Mochi,9.45,url3
+102,Noodles,n3,Tempura,13.54,url12
+102,Noodles,n4,California Roll,6.4,url2
+102,Noodles,n5,California Roll,11.15,url26
+102,Desserts,d1,Teriyaki,15.17,url44
+102,Desserts,d2,Mochi,20.65,url9
+102,Desserts,d3,Tempura,17.71,url10
+103,Starters,s1,Tom Yum Soup,24.05,url11
+103,Starters,s2,Mango Sticky Rice,6.48,url16
+103,Starters,s3,Spring Rolls,21.41,url79
+103,Starters,s4,Green Curry,14.16,url5
+103,Curries,c1,Tom Yum Soup,12.3,url11
+103,Curries,c2,Pad Thai,13.07,url73
+103,Curries,c3,Pad Thai,19.01,url38
+103,Curries,c4,Green Curry,17.48,url73
+103,Noodles,n1,Pad Thai,6.25,url18
+103,Noodles,n2,Pad Thai,9.93,url70
+103,Noodles,n3,Mango Sticky Rice,9.79,url83
+103,Desserts,d1,Green Curry,22.56,url16
+103,Desserts,d2,Pad Thai,23.02,url21
+103,Desserts,d3,Tom Yum Soup,23.98,url37
+103,Desserts,d4,Tom Yum Soup,6.24,url24
+104,Entrées,e1,Escargot,12.98,url57
+104,Entrées,e2,Baguette,13.43,url34
+104,Entrées,e3,Ratatouille,10.99,url76
+104,Entrées,e4,Ratatouille,16.85,url39
+104,Plats Principaux,p1,Coq au Vin,6.31,url73
+104,Plats Principaux,p2,Ratatouille,13.83,url70
+104,Plats Principaux,p3,Ratatouille,13.49,url90
+104,Plats Principaux,p4,Coq au Vin,18.12,url33
+104,Fromages,f1,Coq au Vin,22.94,url56
+104,Fromages,f2,Coq au Vin,18.68,url89
+104,Fromages,f3,Baguette,12.89,url3
+104,Fromages,f4,Baguette,24.69,url90
+104,Desserts,d1,Camembert,17.91,url87
+104,Desserts,d2,Baguette,12.51,url36
+104,Desserts,d3,Crème Brûlée,11.57,url30
+104,Desserts,d4,Camembert,15.24,url80
+104,Desserts,d5,Coq au Vin,23.48,url18
+105,Appetizers,a1,Cheeseburger,20.97,url18
+105,Appetizers,a2,Cheeseburger,10.95,url88
+105,Appetizers,a3,Wings,20.41,url32
+105,Burgers,b1,Cheeseburger,9.01,url44
+105,Burgers,b2,Cobb Salad,6.71,url29
+105,Burgers,b3,Apple Pie,15.53,url59
+105,Hot Dogs,h1,Chili Dog,9.59,url1
+105,Hot Dogs,h2,Apple Pie,20.36,url66
+105,Hot Dogs,h3,Cheeseburger,15.04,url12
+105,Hot Dogs,h4,Cheeseburger,11.49,url9
+105,Hot Dogs,h5,Wings,7.8,url32
+105,Desserts,d1,Wings,9.94,url34
+105,Desserts,d2,Chili Dog,12.93,url70
+105,Desserts,d3,Wings,23.89,url62
+105,Desserts,d4,Cobb Salad,8.03,url67
+106,Appetizers,a1,Greek Salad,15.22,url35
+106,Appetizers,a2,Tzatziki,15.08,url22
+106,Appetizers,a3,Moussaka,9.55,url70
+106,Salads,s1,Souvlaki,5.14,url93
+106,Salads,s2,Tzatziki,21.47,url64
+106,Salads,s3,Tzatziki,12.66,url86
+106,Salads,s4,Greek Salad,5.65,url46
+106,Mains,m1,Baklava,17.61,url22
+106,Mains,m2,Greek Salad,17.06,url30
+106,Mains,m3,Moussaka,24.85,url64
+106,Mains,m4,Baklava,13.27,url17
+106,Desserts,d1,Moussaka,7.68,url70
+106,Desserts,d2,Moussaka,10.97,url50
+106,Desserts,d3,Greek Salad,16.18,url8
+106,Desserts,d4,Souvlaki,12.54,url34
+106,Desserts,d5,Gyros,5.87,url52
+107,Starters,s1,Banh Mi,9.78,url60
+107,Starters,s2,Banh Mi,12.33,url50
+107,Starters,s3,Pho,24.04,url94
+107,Starters,s4,Banh Mi,13.31,url93
+107,Noodle Soups,n1,Bun Thit Nuong,23.41,url15
+107,Noodle Soups,n2,Banh Mi,22.91,url18
+107,Noodle Soups,n3,Bun Thit Nuong,15.25,url53
+107,Noodle Soups,n4,Banh Mi,5.14,url88
+107,Rice Dishes,r1,Bun Thit Nuong,7.59,url65
+107,Rice Dishes,r2,Banh Mi,8.18,url82
+107,Rice Dishes,r3,Lemongrass Chicken,16.45,url83
+107,Rice Dishes,r4,Che,5.79,url72
+107,Desserts,d1,Lemongrass Chicken,20.93,url66
+107,Desserts,d2,Pho,5.57,url11
+107,Desserts,d3,Lemongrass Chicken,13.84,url73
+107,Desserts,d4,Pho,8.25,url43
+107,Desserts,d5,Che,20.42,url92
+108,Tapas,t1,Paella,15.05,url75
+108,Tapas,t2,Churros,8.72,url43
+108,Tapas,t3,Churros,12.57,url35
+108,Tapas,t4,Tortilla Española,16.35,url84
+108,Tapas,t5,Tortilla Española,13.51,url16
+108,Mains,m1,Patatas Bravas,24.16,url75
+108,Mains,m2,Churros,11.83,url50
+108,Mains,m3,Paella,8.93,url11
+108,Seafood,s1,Churros,13.52,url48
+108,Seafood,s2,Tortilla Española,21.29,url21
+108,Seafood,s3,Paella,22.72,url94
+108,Seafood,s4,Tortilla Española,22.64,url80
+108,Desserts,d1,Paella,17.03,url89
+108,Desserts,d2,Paella,24.87,url44
+108,Desserts,d3,Tortilla Española,5.88,url47
+108,Desserts,d4,Gambas al Ajillo,14.29,url36
+108,Desserts,d5,Sangria,9.23,url16
+109,Antipasti,a1,Bruschetta,23.74,url99
+109,Antipasti,a2,Lasagna,19.78,url68
+109,Antipasti,a3,Tiramisu,20.79,url56
+109,Antipasti,a4,Margherita Pizza,11.91,url13
+109,Primi,p1,Spaghetti,9.91,url96
+109,Primi,p2,Margherita Pizza,20.56,url1
+109,Primi,p3,Tiramisu,9.77,url80
+109,Secondi,s1,Ravioli,18.05,url21
+109,Secondi,s2,Bruschetta,5.15,url8
+109,Secondi,s3,Bruschetta,20.34,url19
+109,Dolci,d1,Tiramisu,8.26,url21
+109,Dolci,d2,Ravioli,20.39,url79
+109,Dolci,d3,Margherita Pizza,22.86,url96
+110,Mezze,m1,Falafel,11.19,url32
+110,Mezze,m2,Baklava,11.16,url74
+110,Mezze,m3,Baklava,20.23,url72
+110,Seafood,s1,Baklava,13.97,url51
+110,Seafood,s2,Hummus,12.89,url24
+110,Seafood,s3,Baklava,18.58,url75
+110,Seafood,s4,Falafel,22.92,url27
+110,Grill,g1,Hummus,12.83,url75
+110,Grill,g2,Greek Salad,13.06,url92
+110,Grill,g3,Greek Salad,21.07,url39
+110,Desserts,d1,Baklava,9.51,url48
+110,Desserts,d2,Lamb Kebab,24.97,url92
+110,Desserts,d3,Grilled Octopus,19.3,url54
+110,Desserts,d4,Grilled Octopus,7.51,url53
+110,Desserts,d5,Lamb Kebab,5.38,url84
+111,Starters,s1,Fajitas,13.03,url62
+111,Starters,s2,Chicken Taco,12.12,url22
+111,Starters,s3,Fajitas,19.23,url71
+111,Starters,s4,Fajitas,10.59,url24
+111,Starters,s5,Nachos,10.52,url17
+111,Tacos,t1,Burrito,22.0,url8
+111,Tacos,t2,Quesadilla,10.57,url44
+111,Tacos,t3,Chicken Taco,12.27,url59
+111,Mains,m1,Churros,22.01,url95
+111,Mains,m2,Chicken Taco,8.46,url29
+111,Mains,m3,Churros,21.19,url57
+111,Desserts,d1,Burrito,17.15,url29
+111,Desserts,d2,Fajitas,22.75,url56
+111,Desserts,d3,Chicken Taco,9.81,url76
+112,Dim Sum,d1,Sweet & Sour Chicken,19.18,url77
+112,Dim Sum,d2,Fortune Cookies,14.5,url49
+112,Dim Sum,d3,Lo Mein,7.71,url25
+112,Noodles,n1,Lo Mein,17.48,url91
+112,Noodles,n2,Sweet & Sour Chicken,10.61,url77
+112,Noodles,n3,Lo Mein,6.63,url96
+112,Noodles,n4,Fried Rice,11.84,url18
+112,Noodles,n5,Dumplings,6.75,url25
+112,Rice Dishes,r1,Fortune Cookies,15.11,url2
+112,Rice Dishes,r2,Sweet & Sour Chicken,6.5,url59
+112,Rice Dishes,r3,Sweet & Sour Chicken,21.0,url2
+112,Desserts,d1,Fried Rice,6.73,url19
+112,Desserts,d2,Fortune Cookies,24.91,url88
+112,Desserts,d3,Lo Mein,9.97,url53
+113,Starters,s1,Samosas,12.21,url28
+113,Starters,s2,Gulab Jamun,13.02,url31
+113,Starters,s3,Paneer Tikka,9.14,url70
+113,Curries,c1,Biryani,15.89,url47
+113,Curries,c2,Naan,21.2,url56
+113,Curries,c3,Naan,8.24,url52
+113,Breads,b1,Naan,13.05,url1
+113,Breads,b2,Gulab Jamun,19.29,url4
+113,Breads,b3,Paneer Tikka,16.94,url78
+113,Breads,b4,Naan,10.17,url49
+113,Desserts,d1,Biryani,11.28,url90
+113,Desserts,d2,Butter Chicken,18.53,url28
+113,Desserts,d3,Samosas,15.89,url91
+114,Sushi,s1,Mochi,7.24,url80
+114,Sushi,s2,California Roll,8.38,url10
+114,Sushi,s3,Teriyaki,5.91,url69
+114,Sushi,s4,Salmon Sashimi,6.05,url15
+114,Sushi,s5,Tempura,20.29,url41
+114,Sashimi,s1,Mochi,23.78,url53
+114,Sashimi,s2,Ramen,14.09,url78
+114,Sashimi,s3,Mochi,10.29,url30
+114,Sashimi,s4,Salmon Sashimi,8.32,url83
+114,Noodles,n1,California Roll,10.84,url27
+114,Noodles,n2,Mochi,14.09,url85
+114,Noodles,n3,Tempura,19.63,url83
+114,Noodles,n4,California Roll,14.17,url36
+114,Desserts,d1,Tempura,9.48,url62
+114,Desserts,d2,Mochi,9.2,url98
+114,Desserts,d3,Mochi,7.15,url63
+114,Desserts,d4,Teriyaki,15.3,url56
+115,Starters,s1,Green Curry,13.54,url21
+115,Starters,s2,Spring Rolls,11.83,url43
+115,Starters,s3,Pad Thai,7.14,url15
+115,Starters,s4,Mango Sticky Rice,18.64,url39
+115,Curries,c1,Mango Sticky Rice,10.66,url44
+115,Curries,c2,Green Curry,22.43,url96
+115,Curries,c3,Tom Yum Soup,6.6,url84
+115,Curries,c4,Mango Sticky Rice,19.1,url23
+115,Curries,c5,Mango Sticky Rice,8.88,url36
+115,Noodles,n1,Spring Rolls,12.35,url7
+115,Noodles,n2,Tom Yum Soup,18.96,url78
+115,Noodles,n3,Spring Rolls,22.83,url98
+115,Noodles,n4,Pad Thai,24.16,url61
+115,Noodles,n5,Tom Yum Soup,21.84,url63
+115,Desserts,d1,Tom Yum Soup,6.69,url47
+115,Desserts,d2,Mango Sticky Rice,7.42,url55
+115,Desserts,d3,Tom Yum Soup,15.97,url40
+115,Desserts,d4,Tom Yum Soup,9.34,url44
+116,Entrées,e1,Escargot,22.82,url73
+116,Entrées,e2,Camembert,16.85,url87
+116,Entrées,e3,Camembert,16.41,url49
+116,Plats Principaux,p1,Crème Brûlée,19.6,url72
+116,Plats Principaux,p2,Coq au Vin,20.38,url55
+116,Plats Principaux,p3,Crème Brûlée,9.36,url30
+116,Plats Principaux,p4,Coq au Vin,19.89,url45
+116,Plats Principaux,p5,Escargot,6.1,url23
+116,Fromages,f1,Camembert,13.68,url93
+116,Fromages,f2,Baguette,19.67,url12
+116,Fromages,f3,Crème Brûlée,23.43,url29
+116,Desserts,d1,Ratatouille,21.19,url83
+116,Desserts,d2,Ratatouille,22.98,url20
+116,Desserts,d3,Camembert,6.89,url43
+116,Desserts,d4,Ratatouille,18.23,url70
+116,Desserts,d5,Ratatouille,22.18,url53
+117,Appetizers,a1,Fried Chicken,5.25,url3
+117,Appetizers,a2,Cheeseburger,22.41,url12
+117,Appetizers,a3,Wings,9.73,url10
+117,Appetizers,a4,Chili Dog,13.06,url45
+117,Appetizers,a5,Apple Pie,23.42,url72
+117,Burgers,b1,Apple Pie,13.75,url58
+117,Burgers,b2,Chili Dog,15.31,url3
+117,Burgers,b3,Wings,15.9,url34
+117,Hot Dogs,h1,Cobb Salad,24.53,url44
+117,Hot Dogs,h2,Apple Pie,11.96,url19
+117,Hot Dogs,h3,Apple Pie,16.01,url87
+117,Hot Dogs,h4,Cobb Salad,7.96,url69
+117,Hot Dogs,h5,Cobb Salad,8.38,url63
+117,Desserts,d1,Fried Chicken,11.73,url54
+117,Desserts,d2,Wings,6.22,url82
+117,Desserts,d3,Wings,7.47,url21
+118,Appetizers,a1,Tzatziki,6.88,url95
+118,Appetizers,a2,Moussaka,20.22,url57
+118,Appetizers,a3,Tzatziki,11.46,url65
+118,Salads,s1,Greek Salad,24.7,url62
+118,Salads,s2,Souvlaki,9.56,url98
+118,Salads,s3,Greek Salad,14.95,url89
+118,Mains,m1,Souvlaki,18.99,url6
+118,Mains,m2,Tzatziki,16.19,url36
+118,Mains,m3,Tzatziki,22.12,url75
+118,Mains,m4,Moussaka,6.19,url45
+118,Desserts,d1,Gyros,12.53,url15
+118,Desserts,d2,Souvlaki,22.1,url62
+118,Desserts,d3,Moussaka,18.71,url62
+119,Starters,s1,Banh Mi,16.21,url65
+119,Starters,s2,Pho,24.91,url60
+119,Starters,s3,Banh Mi,20.14,url4
+119,Starters,s4,Che,7.97,url44
+119,Starters,s5,Spring Rolls,9.33,url30
+119,Noodle Soups,n1,Pho,20.85,url53
+119,Noodle Soups,n2,Bun Thit Nuong,22.37,url83
+119,Noodle Soups,n3,Spring Rolls,18.41,url53
+119,Noodle Soups,n4,Pho,6.81,url44
+119,Rice Dishes,r1,Spring Rolls,15.92,url21
+119,Rice Dishes,r2,Spring Rolls,14.12,url91
+119,Rice Dishes,r3,Che,17.71,url4
+119,Desserts,d1,Bun Thit Nuong,22.29,url79
+119,Desserts,d2,Lemongrass Chicken,17.57,url51
+119,Desserts,d3,Lemongrass Chicken,6.31,url66
+119,Desserts,d4,Che,9.77,url85
+120,Tapas,t1,Paella,6.4,url80
+120,Tapas,t2,Tortilla Española,20.87,url49
+120,Tapas,t3,Patatas Bravas,21.03,url26
+120,Tapas,t4,Churros,15.14,url8
+120,Mains,m1,Gambas al Ajillo,18.26,url56
+120,Mains,m2,Paella,17.57,url64
+120,Mains,m3,Patatas Bravas,11.57,url46
+120,Seafood,s1,Churros,22.98,url33
+120,Seafood,s2,Tortilla Española,13.48,url57
+120,Seafood,s3,Paella,11.62,url19
+120,Seafood,s4,Paella,17.69,url9
+120,Desserts,d1,Churros,13.46,url82
+120,Desserts,d2,Paella,7.86,url21
+120,Desserts,d3,Gambas al Ajillo,23.02,url78
+120,Desserts,d4,Gambas al Ajillo,10.11,url43
+121,Antipasti,a1,Margherita Pizza,9.75,url75
+121,Antipasti,a2,Bruschetta,20.91,url30
+121,Antipasti,a3,Spaghetti,19.84,url46
+121,Primi,p1,Ravioli,13.79,url26
+121,Primi,p2,Margherita Pizza,22.63,url38
+121,Primi,p3,Ravioli,9.64,url65
+121,Secondi,s1,Spaghetti,6.0,url4
+121,Secondi,s2,Margherita Pizza,6.39,url14
+121,Secondi,s3,Lasagna,18.32,url86
+121,Secondi,s4,Ravioli,24.89,url85
+121,Secondi,s5,Ravioli,19.89,url41
+121,Dolci,d1,Tiramisu,20.45,url33
+121,Dolci,d2,Bruschetta,13.46,url69
+121,Dolci,d3,Bruschetta,20.91,url57
+121,Dolci,d4,Ravioli,23.05,url59
+121,Dolci,d5,Spaghetti,22.94,url29
+122,Mezze,m1,Falafel,14.04,url48
+122,Mezze,m2,Hummus,6.34,url39
+122,Mezze,m3,Baklava,10.72,url69
+122,Mezze,m4,Falafel,18.04,url26
+122,Mezze,m5,Baklava,9.53,url97
+122,Seafood,s1,Baklava,5.44,url87
+122,Seafood,s2,Falafel,7.18,url32
+122,Seafood,s3,Falafel,20.47,url69
+122,Seafood,s4,Greek Salad,20.25,url89
+122,Seafood,s5,Baklava,7.82,url10
+122,Grill,g1,Greek Salad,24.43,url13
+122,Grill,g2,Lamb Kebab,7.99,url63
+122,Grill,g3,Greek Salad,11.6,url47
+122,Desserts,d1,Hummus,19.68,url29
+122,Desserts,d2,Falafel,23.46,url69
+122,Desserts,d3,Grilled Octopus,15.02,url54
+123,Starters,s1,Chicken Taco,21.42,url40
+123,Starters,s2,Fajitas,16.46,url10
+123,Starters,s3,Fajitas,10.94,url48
+123,Tacos,t1,Burrito,14.52,url66
+123,Tacos,t2,Churros,16.92,url8
+123,Tacos,t3,Burrito,10.81,url81
+123,Tacos,t4,Fajitas,10.04,url4
+123,Mains,m1,Chicken Taco,16.3,url78
+123,Mains,m2,Chicken Taco,5.21,url13
+123,Mains,m3,Nachos,10.02,url7
+123,Mains,m4,Nachos,9.94,url26
+123,Desserts,d1,Burrito,23.24,url96
+123,Desserts,d2,Burrito,13.76,url72
+123,Desserts,d3,Nachos,14.51,url13
+124,Dim Sum,d1,Dumplings,7.98,url87
+124,Dim Sum,d2,Fried Rice,15.51,url44
+124,Dim Sum,d3,Fried Rice,24.69,url97
+124,Dim Sum,d4,Dumplings,12.12,url57
+124,Dim Sum,d5,Dumplings,9.11,url34
+124,Noodles,n1,Sweet & Sour Chicken,9.45,url10
+124,Noodles,n2,Fortune Cookies,5.76,url13
+124,Noodles,n3,Lo Mein,7.44,url55
+124,Rice Dishes,r1,Lo Mein,7.31,url72
+124,Rice Dishes,r2,Sweet & Sour Chicken,19.63,url80
+124,Rice Dishes,r3,Sweet & Sour Chicken,9.2,url67
+124,Desserts,d1,Fried Rice,15.87,url74
+124,Desserts,d2,Fortune Cookies,10.31,url3
+124,Desserts,d3,Fortune Cookies,24.21,url29
+124,Desserts,d4,Lo Mein,11.07,url96
+125,Starters,s1,Samosas,21.4,url66
+125,Starters,s2,Gulab Jamun,19.84,url87
+125,Starters,s3,Butter Chicken,23.69,url88
+125,Curries,c1,Samosas,11.66,url64
+125,Curries,c2,Biryani,11.23,url46
+125,Curries,c3,Naan,7.71,url13
+125,Curries,c4,Naan,7.92,url9
+125,Breads,b1,Samosas,20.62,url3
+125,Breads,b2,Samosas,23.01,url76
+125,Breads,b3,Gulab Jamun,7.86,url89
+125,Desserts,d1,Samosas,9.9,url26
+125,Desserts,d2,Gulab Jamun,17.96,url19
+125,Desserts,d3,Gulab Jamun,15.92,url95
+125,Desserts,d4,Gulab Jamun,23.96,url20
+125,Desserts,d5,Gulab Jamun,17.22,url5
+126,Sushi,s1,Tempura,13.66,url87
+126,Sushi,s2,Tempura,15.86,url1
+126,Sushi,s3,Teriyaki,20.73,url13
+126,Sashimi,s1,Ramen,14.29,url22
+126,Sashimi,s2,Tempura,7.45,url4
+126,Sashimi,s3,Mochi,18.59,url92
+126,Noodles,n1,Salmon Sashimi,20.05,url30
+126,Noodles,n2,Ramen,19.36,url55
+126,Noodles,n3,Mochi,8.43,url56
+126,Desserts,d1,Tempura,21.64,url97
+126,Desserts,d2,Tempura,22.83,url30
+126,Desserts,d3,Salmon Sashimi,24.03,url33
+126,Desserts,d4,Tempura,10.18,url10
+126,Desserts,d5,Mochi,17.23,url62
+127,Starters,s1,Green Curry,8.87,url13
+127,Starters,s2,Spring Rolls,20.15,url12
+127,Starters,s3,Spring Rolls,7.35,url96
+127,Starters,s4,Mango Sticky Rice,9.49,url89
+127,Starters,s5,Mango Sticky Rice,22.97,url16
+127,Curries,c1,Tom Yum Soup,18.12,url69
+127,Curries,c2,Green Curry,22.7,url84
+127,Curries,c3,Pad Thai,21.29,url34
+127,Curries,c4,Mango Sticky Rice,23.23,url63
+127,Curries,c5,Pad Thai,23.61,url96
+127,Noodles,n1,Green Curry,10.58,url99
+127,Noodles,n2,Pad Thai,21.99,url31
+127,Noodles,n3,Green Curry,15.79,url37
+127,Desserts,d1,Pad Thai,18.78,url30
+127,Desserts,d2,Mango Sticky Rice,21.34,url53
+127,Desserts,d3,Pad Thai,23.27,url82
+127,Desserts,d4,Spring Rolls,9.32,url78
+128,Entrées,e1,Crème Brûlée,9.85,url19
+128,Entrées,e2,Escargot,10.45,url51
+128,Entrées,e3,Escargot,14.18,url37
+128,Plats Principaux,p1,Baguette,17.75,url16
+128,Plats Principaux,p2,Baguette,11.01,url7
+128,Plats Principaux,p3,Escargot,14.77,url89
+128,Fromages,f1,Ratatouille,14.57,url93
+128,Fromages,f2,Crème Brûlée,13.69,url14
+128,Fromages,f3,Baguette,15.95,url71
+128,Fromages,f4,Baguette,24.56,url21
+128,Desserts,d1,Escargot,7.67,url70
+128,Desserts,d2,Escargot,12.89,url44
+128,Desserts,d3,Coq au Vin,15.67,url70
+128,Desserts,d4,Ratatouille,17.03,url22
+128,Desserts,d5,Escargot,12.98,url54
+129,Appetizers,a1,Wings,9.19,url52
+129,Appetizers,a2,Fried Chicken,23.45,url42
+129,Appetizers,a3,Apple Pie,15.0,url48
+129,Burgers,b1,Wings,21.52,url36
+129,Burgers,b2,Fried Chicken,13.03,url56
+129,Burgers,b3,Cheeseburger,11.26,url69
+129,Burgers,b4,Cobb Salad,15.9,url58
+129,Burgers,b5,Cheeseburger,14.6,url47
+129,Hot Dogs,h1,Apple Pie,18.29,url6
+129,Hot Dogs,h2,Wings,22.32,url54
+129,Hot Dogs,h3,Chili Dog,6.8,url57
+129,Desserts,d1,Cobb Salad,15.45,url28
+129,Desserts,d2,Cheeseburger,18.63,url52
+129,Desserts,d3,Cobb Salad,14.12,url51
+130,Appetizers,a1,Moussaka,21.61,url1
+130,Appetizers,a2,Moussaka,11.78,url10
+130,Appetizers,a3,Moussaka,16.78,url13
+130,Appetizers,a4,Baklava,20.44,url40
+130,Appetizers,a5,Baklava,14.19,url75
+130,Salads,s1,Greek Salad,10.0,url70
+130,Salads,s2,Moussaka,12.01,url83
+130,Salads,s3,Greek Salad,21.27,url38
+130,Salads,s4,Baklava,11.61,url63
+130,Mains,m1,Tzatziki,6.81,url17
+130,Mains,m2,Souvlaki,13.55,url57
+130,Mains,m3,Greek Salad,23.25,url85
+130,Mains,m4,Gyros,20.77,url69
+130,Mains,m5,Baklava,21.39,url72
+130,Desserts,d1,Moussaka,18.4,url20
+130,Desserts,d2,Baklava,11.58,url64
+130,Desserts,d3,Moussaka,19.9,url5
+130,Desserts,d4,Souvlaki,13.11,url41
+131,Starters,s1,Spring Rolls,22.14,url30
+131,Starters,s2,Pho,7.78,url86
+131,Starters,s3,Lemongrass Chicken,21.22,url59
+131,Starters,s4,Che,23.31,url20
+131,Noodle Soups,n1,Banh Mi,19.19,url33
+131,Noodle Soups,n2,Spring Rolls,5.88,url32
+131,Noodle Soups,n3,Pho,13.13,url5
+131,Noodle Soups,n4,Spring Rolls,20.54,url38
+131,Noodle Soups,n5,Lemongrass Chicken,18.78,url1
+131,Rice Dishes,r1,Che,8.69,url52
+131,Rice Dishes,r2,Che,16.32,url99
+131,Rice Dishes,r3,Pho,6.1,url43
+131,Desserts,d1,Banh Mi,12.15,url100
+131,Desserts,d2,Banh Mi,20.68,url61
+131,Desserts,d3,Lemongrass Chicken,8.75,url67
+131,Desserts,d4,Pho,13.94,url14
+132,Tapas,t1,Tortilla Española,23.84,url17
+132,Tapas,t2,Gambas al Ajillo,9.09,url50
+132,Tapas,t3,Tortilla Española,22.91,url13
+132,Mains,m1,Churros,7.24,url34
+132,Mains,m2,Sangria,5.32,url71
+132,Mains,m3,Churros,12.56,url92
+132,Mains,m4,Churros,10.97,url54
+132,Mains,m5,Sangria,24.55,url1
+132,Seafood,s1,Gambas al Ajillo,13.1,url70
+132,Seafood,s2,Tortilla Española,23.71,url73
+132,Seafood,s3,Paella,6.93,url73
+132,Seafood,s4,Sangria,19.91,url32
+132,Seafood,s5,Patatas Bravas,12.81,url20
+132,Desserts,d1,Gambas al Ajillo,23.2,url43
+132,Desserts,d2,Gambas al Ajillo,7.52,url25
+132,Desserts,d3,Tortilla Española,12.55,url46
+132,Desserts,d4,Sangria,11.13,url22
+133,Antipasti,a1,Lasagna,24.92,url79
+133,Antipasti,a2,Spaghetti,5.37,url31
+133,Antipasti,a3,Ravioli,16.41,url81
+133,Antipasti,a4,Spaghetti,7.63,url78
+133,Primi,p1,Spaghetti,6.98,url72
+133,Primi,p2,Tiramisu,23.66,url2
+133,Primi,p3,Ravioli,19.88,url23
+133,Primi,p4,Ravioli,13.69,url75
+133,Primi,p5,Ravioli,6.93,url9
+133,Secondi,s1,Bruschetta,8.54,url23
+133,Secondi,s2,Bruschetta,6.04,url45
+133,Secondi,s3,Ravioli,6.54,url30
+133,Secondi,s4,Tiramisu,9.04,url13
+133,Secondi,s5,Ravioli,13.81,url93
+133,Dolci,d1,Ravioli,15.29,url89
+133,Dolci,d2,Tiramisu,19.47,url95
+133,Dolci,d3,Spaghetti,8.62,url20
+134,Mezze,m1,Baklava,16.39,url60
+134,Mezze,m2,Lamb Kebab,17.72,url86
+134,Mezze,m3,Greek Salad,18.4,url40
+134,Mezze,m4,Greek Salad,12.73,url35
+134,Mezze,m5,Greek Salad,16.38,url85
+134,Seafood,s1,Grilled Octopus,16.56,url42
+134,Seafood,s2,Lamb Kebab,11.12,url38
+134,Seafood,s3,Baklava,13.04,url35
+134,Seafood,s4,Hummus,22.67,url53
+134,Seafood,s5,Hummus,5.79,url43
+134,Grill,g1,Lamb Kebab,15.94,url42
+134,Grill,g2,Hummus,13.26,url43
+134,Grill,g3,Lamb Kebab,9.91,url30
+134,Grill,g4,Grilled Octopus,16.63,url40
+134,Desserts,d1,Falafel,15.77,url21
+134,Desserts,d2,Greek Salad,6.34,url74
+134,Desserts,d3,Greek Salad,13.8,url69
+134,Desserts,d4,Hummus,17.0,url4
+135,Starters,s1,Burrito,23.02,url25
+135,Starters,s2,Burrito,18.14,url26
+135,Starters,s3,Chicken Taco,10.24,url84
+135,Tacos,t1,Chicken Taco,15.94,url20
+135,Tacos,t2,Quesadilla,6.88,url80
+135,Tacos,t3,Chicken Taco,9.76,url45
+135,Tacos,t4,Nachos,17.73,url98
+135,Mains,m1,Fajitas,20.07,url12
+135,Mains,m2,Nachos,10.33,url76
+135,Mains,m3,Churros,15.89,url85
+135,Mains,m4,Fajitas,19.28,url59
+135,Mains,m5,Chicken Taco,12.33,url26
+135,Desserts,d1,Quesadilla,20.39,url20
+135,Desserts,d2,Nachos,5.42,url42
+135,Desserts,d3,Chicken Taco,10.94,url74
+135,Desserts,d4,Churros,7.59,url30
+136,Dim Sum,d1,Sweet & Sour Chicken,10.35,url49
+136,Dim Sum,d2,Fried Rice,21.67,url69
+136,Dim Sum,d3,Fortune Cookies,16.18,url12
+136,Dim Sum,d4,Lo Mein,5.15,url82
+136,Noodles,n1,Fortune Cookies,7.01,url86
+136,Noodles,n2,Sweet & Sour Chicken,17.27,url93
+136,Noodles,n3,Lo Mein,16.32,url87
+136,Noodles,n4,Fortune Cookies,9.73,url18
+136,Rice Dishes,r1,Sweet & Sour Chicken,9.8,url54
+136,Rice Dishes,r2,Dumplings,24.51,url40
+136,Rice Dishes,r3,Sweet & Sour Chicken,15.14,url34
+136,Desserts,d1,Sweet & Sour Chicken,19.4,url79
+136,Desserts,d2,Fortune Cookies,20.67,url85
+136,Desserts,d3,Dumplings,11.3,url27
+137,Starters,s1,Butter Chicken,8.98,url40
+137,Starters,s2,Samosas,24.56,url94
+137,Starters,s3,Biryani,22.64,url26
+137,Curries,c1,Butter Chicken,19.5,url26
+137,Curries,c2,Butter Chicken,11.48,url25
+137,Curries,c3,Paneer Tikka,23.22,url89
+137,Breads,b1,Biryani,16.52,url68
+137,Breads,b2,Naan,9.47,url28
+137,Breads,b3,Gulab Jamun,9.82,url90
+137,Desserts,d1,Butter Chicken,5.42,url85
+137,Desserts,d2,Naan,14.97,url30
+137,Desserts,d3,Naan,6.33,url87
+137,Desserts,d4,Samosas,9.6,url7
+137,Desserts,d5,Paneer Tikka,17.74,url44
+138,Sushi,s1,Salmon Sashimi,8.42,url26
+138,Sushi,s2,Salmon Sashimi,14.91,url46
+138,Sushi,s3,Salmon Sashimi,16.53,url59
+138,Sashimi,s1,Ramen,14.02,url3
+138,Sashimi,s2,Ramen,14.79,url45
+138,Sashimi,s3,Teriyaki,23.58,url26
+138,Sashimi,s4,California Roll,9.59,url23
+138,Sashimi,s5,Ramen,16.94,url76
+138,Noodles,n1,California Roll,13.96,url99
+138,Noodles,n2,Tempura,12.59,url78
+138,Noodles,n3,Teriyaki,10.86,url6
+138,Noodles,n4,Mochi,21.33,url89
+138,Desserts,d1,Ramen,15.63,url1
+138,Desserts,d2,Mochi,10.91,url41
+138,Desserts,d3,Salmon Sashimi,5.76,url89
+138,Desserts,d4,Tempura,8.19,url10
+139,Starters,s1,Mango Sticky Rice,23.23,url70
+139,Starters,s2,Green Curry,16.87,url61
+139,Starters,s3,Spring Rolls,23.65,url31
+139,Starters,s4,Pad Thai,11.71,url89
+139,Starters,s5,Pad Thai,19.06,url39
+139,Curries,c1,Mango Sticky Rice,7.45,url47
+139,Curries,c2,Tom Yum Soup,8.77,url44
+139,Curries,c3,Green Curry,14.69,url86
+139,Noodles,n1,Green Curry,7.8,url77
+139,Noodles,n2,Spring Rolls,22.8,url18
+139,Noodles,n3,Green Curry,22.64,url71
+139,Desserts,d1,Green Curry,8.71,url87
+139,Desserts,d2,Tom Yum Soup,21.83,url65
+139,Desserts,d3,Pad Thai,22.31,url54
+139,Desserts,d4,Mango Sticky Rice,11.65,url53
+139,Desserts,d5,Spring Rolls,16.01,url39
+140,Entrées,e1,Ratatouille,22.24,url11
+140,Entrées,e2,Baguette,14.53,url36
+140,Entrées,e3,Crème Brûlée,12.13,url35
+140,Entrées,e4,Crème Brûlée,15.48,url57
+140,Entrées,e5,Coq au Vin,11.17,url58
+140,Plats Principaux,p1,Camembert,14.5,url27
+140,Plats Principaux,p2,Escargot,7.36,url53
+140,Plats Principaux,p3,Crème Brûlée,12.45,url17
+140,Plats Principaux,p4,Coq au Vin,8.14,url21
+140,Fromages,f1,Coq au Vin,14.61,url27
+140,Fromages,f2,Coq au Vin,24.37,url99
+140,Fromages,f3,Crème Brûlée,22.64,url65
+140,Desserts,d1,Coq au Vin,22.99,url76
+140,Desserts,d2,Camembert,23.44,url17
+140,Desserts,d3,Camembert,12.29,url91
+140,Desserts,d4,Camembert,22.57,url97
+140,Desserts,d5,Escargot,20.41,url87
+141,Appetizers,a1,Fried Chicken,23.52,url23
+141,Appetizers,a2,Wings,13.8,url76
+141,Appetizers,a3,Cobb Salad,16.92,url37
+141,Appetizers,a4,Cobb Salad,7.03,url69
+141,Burgers,b1,Cheeseburger,18.77,url96
+141,Burgers,b2,Cobb Salad,11.84,url72
+141,Burgers,b3,Wings,21.31,url55
+141,Burgers,b4,Cobb Salad,17.58,url60
+141,Hot Dogs,h1,Cobb Salad,9.56,url53
+141,Hot Dogs,h2,Apple Pie,7.79,url69
+141,Hot Dogs,h3,Apple Pie,5.7,url28
+141,Hot Dogs,h4,Apple Pie,23.47,url76
+141,Desserts,d1,Cheeseburger,13.28,url83
+141,Desserts,d2,Cheeseburger,12.72,url28
+141,Desserts,d3,Cobb Salad,15.29,url15
+141,Desserts,d4,Fried Chicken,19.19,url60
+141,Desserts,d5,Cheeseburger,5.69,url53
+142,Appetizers,a1,Greek Salad,15.28,url55
+142,Appetizers,a2,Gyros,18.27,url19
+142,Appetizers,a3,Baklava,5.61,url58
+142,Appetizers,a4,Greek Salad,16.65,url37
+142,Salads,s1,Baklava,13.46,url81
+142,Salads,s2,Souvlaki,15.82,url19
+142,Salads,s3,Moussaka,7.35,url3
+142,Salads,s4,Greek Salad,17.19,url20
+142,Mains,m1,Baklava,19.43,url85
+142,Mains,m2,Souvlaki,10.99,url17
+142,Mains,m3,Gyros,23.5,url43
+142,Desserts,d1,Gyros,5.64,url79
+142,Desserts,d2,Tzatziki,17.65,url89
+142,Desserts,d3,Gyros,14.0,url80
+142,Desserts,d4,Greek Salad,23.25,url83
+142,Desserts,d5,Greek Salad,14.82,url86
+143,Starters,s1,Pho,13.74,url76
+143,Starters,s2,Spring Rolls,5.06,url52
+143,Starters,s3,Lemongrass Chicken,10.39,url78
+143,Noodle Soups,n1,Pho,7.69,url85
+143,Noodle Soups,n2,Banh Mi,22.61,url31
+143,Noodle Soups,n3,Che,13.75,url9
+143,Noodle Soups,n4,Che,24.42,url59
+143,Rice Dishes,r1,Lemongrass Chicken,6.33,url4
+143,Rice Dishes,r2,Che,19.74,url21
+143,Rice Dishes,r3,Banh Mi,20.94,url94
+143,Desserts,d1,Pho,20.12,url10
+143,Desserts,d2,Che,10.77,url6
+143,Desserts,d3,Spring Rolls,14.53,url79
+143,Desserts,d4,Che,15.3,url92
+144,Tapas,t1,Gambas al Ajillo,17.98,url17
+144,Tapas,t2,Gambas al Ajillo,18.94,url8
+144,Tapas,t3,Patatas Bravas,21.4,url19
+144,Tapas,t4,Sangria,7.5,url62
+144,Mains,m1,Churros,9.25,url44
+144,Mains,m2,Gambas al Ajillo,19.98,url66
+144,Mains,m3,Gambas al Ajillo,11.67,url97
+144,Seafood,s1,Gambas al Ajillo,22.32,url27
+144,Seafood,s2,Gambas al Ajillo,17.94,url41
+144,Seafood,s3,Patatas Bravas,17.0,url92
+144,Seafood,s4,Churros,14.21,url80
+144,Seafood,s5,Gambas al Ajillo,5.29,url9
+144,Desserts,d1,Churros,20.0,url69
+144,Desserts,d2,Paella,9.17,url98
+144,Desserts,d3,Patatas Bravas,24.9,url26
+144,Desserts,d4,Paella,6.0,url38
+144,Desserts,d5,Paella,10.64,url48
+145,Antipasti,a1,Margherita Pizza,23.97,url23
+145,Antipasti,a2,Ravioli,11.97,url14
+145,Antipasti,a3,Spaghetti,8.14,url76
+145,Antipasti,a4,Margherita Pizza,6.11,url31
+145,Primi,p1,Ravioli,8.83,url91
+145,Primi,p2,Ravioli,10.1,url32
+145,Primi,p3,Tiramisu,11.67,url65
+145,Secondi,s1,Tiramisu,21.28,url83
+145,Secondi,s2,Margherita Pizza,19.59,url92
+145,Secondi,s3,Margherita Pizza,19.98,url6
+145,Secondi,s4,Ravioli,17.14,url81
+145,Dolci,d1,Margherita Pizza,22.23,url34
+145,Dolci,d2,Ravioli,20.25,url7
+145,Dolci,d3,Ravioli,10.08,url79
+145,Dolci,d4,Margherita Pizza,8.5,url67
+145,Dolci,d5,Bruschetta,8.73,url37
+146,Mezze,m1,Lamb Kebab,6.23,url35
+146,Mezze,m2,Greek Salad,23.32,url80
+146,Mezze,m3,Greek Salad,13.12,url93
+146,Seafood,s1,Falafel,23.06,url3
+146,Seafood,s2,Falafel,14.93,url98
+146,Seafood,s3,Grilled Octopus,20.98,url43
+146,Seafood,s4,Grilled Octopus,21.29,url37
+146,Grill,g1,Lamb Kebab,7.39,url37
+146,Grill,g2,Greek Salad,13.59,url68
+146,Grill,g3,Grilled Octopus,8.82,url98
+146,Grill,g4,Baklava,20.8,url50
+146,Desserts,d1,Grilled Octopus,20.48,url92
+146,Desserts,d2,Grilled Octopus,12.64,url43
+146,Desserts,d3,Hummus,11.97,url29
+146,Desserts,d4,Hummus,21.37,url79
+147,Starters,s1,Fajitas,18.57,url47
+147,Starters,s2,Burrito,24.08,url75
+147,Starters,s3,Quesadilla,22.86,url50
+147,Tacos,t1,Quesadilla,8.65,url51
+147,Tacos,t2,Chicken Taco,22.41,url51
+147,Tacos,t3,Nachos,5.91,url2
+147,Mains,m1,Burrito,9.99,url4
+147,Mains,m2,Quesadilla,14.43,url51
+147,Mains,m3,Fajitas,8.34,url61
+147,Desserts,d1,Churros,23.49,url19
+147,Desserts,d2,Fajitas,11.93,url83
+147,Desserts,d3,Churros,24.37,url66
+147,Desserts,d4,Fajitas,8.92,url33
+147,Desserts,d5,Quesadilla,17.69,url90
+148,Dim Sum,d1,Sweet & Sour Chicken,16.86,url50
+148,Dim Sum,d2,Dumplings,13.48,url95
+148,Dim Sum,d3,Fortune Cookies,16.88,url3
+148,Noodles,n1,Lo Mein,14.74,url17
+148,Noodles,n2,Fortune Cookies,16.64,url26
+148,Noodles,n3,Dumplings,21.34,url3
+148,Noodles,n4,Sweet & Sour Chicken,9.02,url2
+148,Noodles,n5,Sweet & Sour Chicken,9.12,url95
+148,Rice Dishes,r1,Dumplings,22.07,url27
+148,Rice Dishes,r2,Lo Mein,24.09,url64
+148,Rice Dishes,r3,Fortune Cookies,23.12,url13
+148,Desserts,d1,Sweet & Sour Chicken,23.71,url34
+148,Desserts,d2,Dumplings,6.16,url32
+148,Desserts,d3,Fortune Cookies,24.53,url40
+149,Starters,s1,Biryani,5.72,url5
+149,Starters,s2,Gulab Jamun,23.34,url51
+149,Starters,s3,Gulab Jamun,17.57,url10
+149,Curries,c1,Gulab Jamun,22.28,url9
+149,Curries,c2,Naan,24.62,url71
+149,Curries,c3,Biryani,18.41,url65
+149,Breads,b1,Biryani,17.11,url15
+149,Breads,b2,Samosas,19.92,url21
+149,Breads,b3,Gulab Jamun,13.66,url1
+149,Breads,b4,Gulab Jamun,7.54,url65
+149,Desserts,d1,Naan,11.48,url78
+149,Desserts,d2,Biryani,6.83,url56
+149,Desserts,d3,Gulab Jamun,23.76,url97
+150,Sushi,s1,Salmon Sashimi,16.69,url36
+150,Sushi,s2,Salmon Sashimi,15.34,url14
+150,Sushi,s3,Salmon Sashimi,17.91,url12
+150,Sushi,s4,Mochi,15.76,url41
+150,Sushi,s5,Ramen,12.45,url78
+150,Sashimi,s1,Teriyaki,13.53,url37
+150,Sashimi,s2,Ramen,13.21,url40
+150,Sashimi,s3,Mochi,15.93,url54
+150,Sashimi,s4,Teriyaki,16.98,url65
+150,Sashimi,s5,Teriyaki,11.88,url88
+150,Noodles,n1,Tempura,7.3,url81
+150,Noodles,n2,California Roll,12.15,url73
+150,Noodles,n3,Tempura,24.38,url33
+150,Noodles,n4,California Roll,19.4,url56
+150,Noodles,n5,Mochi,11.3,url68
+150,Desserts,d1,Teriyaki,9.02,url5
+150,Desserts,d2,Ramen,7.68,url100
+150,Desserts,d3,Ramen,21.51,url78
+150,Desserts,d4,Teriyaki,16.37,url87
+151,Starters,s1,Tom Yum Soup,5.21,url19
+151,Starters,s2,Spring Rolls,7.23,url41
+151,Starters,s3,Green Curry,14.89,url5
+151,Curries,c1,Pad Thai,23.22,url93
+151,Curries,c2,Pad Thai,17.52,url1
+151,Curries,c3,Tom Yum Soup,14.98,url75
+151,Curries,c4,Spring Rolls,16.96,url22
+151,Noodles,n1,Pad Thai,13.3,url82
+151,Noodles,n2,Pad Thai,9.68,url36
+151,Noodles,n3,Pad Thai,16.85,url14
+151,Desserts,d1,Tom Yum Soup,19.24,url35
+151,Desserts,d2,Tom Yum Soup,11.07,url41
+151,Desserts,d3,Mango Sticky Rice,16.83,url73
+151,Desserts,d4,Tom Yum Soup,14.27,url27
+152,Entrées,e1,Camembert,8.19,url24
+152,Entrées,e2,Escargot,22.14,url86
+152,Entrées,e3,Escargot,15.41,url32
+152,Entrées,e4,Baguette,15.76,url79
+152,Plats Principaux,p1,Crème Brûlée,6.68,url98
+152,Plats Principaux,p2,Camembert,16.59,url62
+152,Plats Principaux,p3,Escargot,22.4,url10
+152,Fromages,f1,Coq au Vin,20.4,url35
+152,Fromages,f2,Camembert,22.55,url7
+152,Fromages,f3,Escargot,8.54,url100
+152,Fromages,f4,Crème Brûlée,20.9,url61
+152,Desserts,d1,Camembert,15.4,url26
+152,Desserts,d2,Crème Brûlée,13.83,url10
+152,Desserts,d3,Camembert,14.46,url79
+152,Desserts,d4,Baguette,7.32,url85
+153,Appetizers,a1,Chili Dog,19.05,url70
+153,Appetizers,a2,Fried Chicken,12.66,url63
+153,Appetizers,a3,Cobb Salad,6.49,url78
+153,Appetizers,a4,Apple Pie,10.86,url26
+153,Appetizers,a5,Fried Chicken,21.1,url62
+153,Burgers,b1,Fried Chicken,12.49,url42
+153,Burgers,b2,Chili Dog,5.32,url62
+153,Burgers,b3,Chili Dog,13.87,url16
+153,Burgers,b4,Wings,22.88,url76
+153,Burgers,b5,Apple Pie,19.55,url60
+153,Hot Dogs,h1,Apple Pie,11.15,url20
+153,Hot Dogs,h2,Cobb Salad,11.13,url45
+153,Hot Dogs,h3,Cobb Salad,23.19,url17
+153,Desserts,d1,Fried Chicken,7.15,url97
+153,Desserts,d2,Fried Chicken,15.44,url74
+153,Desserts,d3,Cobb Salad,12.68,url77
+153,Desserts,d4,Cheeseburger,21.65,url27
+153,Desserts,d5,Fried Chicken,23.7,url73
+154,Appetizers,a1,Moussaka,18.81,url98
+154,Appetizers,a2,Greek Salad,17.26,url26
+154,Appetizers,a3,Souvlaki,12.78,url34
+154,Salads,s1,Baklava,24.59,url65
+154,Salads,s2,Gyros,14.54,url100
+154,Salads,s3,Greek Salad,15.16,url15
+154,Mains,m1,Moussaka,14.39,url7
+154,Mains,m2,Baklava,13.53,url11
+154,Mains,m3,Souvlaki,21.87,url21
+154,Mains,m4,Souvlaki,6.92,url44
+154,Mains,m5,Tzatziki,21.24,url66
+154,Desserts,d1,Baklava,16.27,url24
+154,Desserts,d2,Tzatziki,24.13,url14
+154,Desserts,d3,Souvlaki,12.38,url78
+154,Desserts,d4,Tzatziki,5.54,url36
+155,Starters,s1,Lemongrass Chicken,15.89,url47
+155,Starters,s2,Pho,5.54,url93
+155,Starters,s3,Pho,15.77,url18
+155,Starters,s4,Spring Rolls,15.03,url70
+155,Starters,s5,Spring Rolls,17.37,url67
+155,Noodle Soups,n1,Che,9.28,url60
+155,Noodle Soups,n2,Banh Mi,14.81,url53
+155,Noodle Soups,n3,Banh Mi,9.09,url41
+155,Rice Dishes,r1,Pho,23.26,url62
+155,Rice Dishes,r2,Pho,16.29,url44
+155,Rice Dishes,r3,Che,14.75,url92
+155,Rice Dishes,r4,Spring Rolls,23.25,url57
+155,Rice Dishes,r5,Che,8.08,url49
+155,Desserts,d1,Bun Thit Nuong,22.88,url25
+155,Desserts,d2,Pho,19.36,url69
+155,Desserts,d3,Spring Rolls,23.44,url99
+155,Desserts,d4,Spring Rolls,6.31,url35
+155,Desserts,d5,Bun Thit Nuong,18.25,url58
+156,Tapas,t1,Sangria,8.39,url79
+156,Tapas,t2,Gambas al Ajillo,7.73,url45
+156,Tapas,t3,Gambas al Ajillo,8.42,url99
+156,Tapas,t4,Sangria,16.59,url86
+156,Tapas,t5,Paella,17.13,url36
+156,Mains,m1,Gambas al Ajillo,22.67,url41
+156,Mains,m2,Gambas al Ajillo,6.22,url91
+156,Mains,m3,Sangria,16.83,url19
+156,Mains,m4,Tortilla Española,23.69,url51
+156,Seafood,s1,Gambas al Ajillo,21.99,url87
+156,Seafood,s2,Churros,5.55,url26
+156,Seafood,s3,Paella,7.39,url81
+156,Seafood,s4,Tortilla Española,5.36,url78
+156,Desserts,d1,Tortilla Española,24.95,url100
+156,Desserts,d2,Gambas al Ajillo,20.26,url29
+156,Desserts,d3,Tortilla Española,10.81,url78
+156,Desserts,d4,Tortilla Española,9.69,url8
+156,Desserts,d5,Paella,14.65,url22
+157,Antipasti,a1,Margherita Pizza,16.05,url29
+157,Antipasti,a2,Tiramisu,24.9,url79
+157,Antipasti,a3,Ravioli,22.38,url21
+157,Antipasti,a4,Spaghetti,11.11,url96
+157,Primi,p1,Ravioli,7.67,url27
+157,Primi,p2,Lasagna,11.04,url6
+157,Primi,p3,Ravioli,10.15,url97
+157,Primi,p4,Spaghetti,10.78,url59
+157,Primi,p5,Ravioli,5.47,url23
+157,Secondi,s1,Lasagna,20.38,url17
+157,Secondi,s2,Tiramisu,18.39,url88
+157,Secondi,s3,Lasagna,22.98,url8
+157,Secondi,s4,Bruschetta,10.51,url44
+157,Dolci,d1,Margherita Pizza,20.42,url28
+157,Dolci,d2,Margherita Pizza,15.31,url79
+157,Dolci,d3,Ravioli,18.81,url59
+158,Mezze,m1,Hummus,18.2,url19
+158,Mezze,m2,Hummus,19.38,url97
+158,Mezze,m3,Lamb Kebab,23.84,url53
+158,Seafood,s1,Greek Salad,9.33,url26
+158,Seafood,s2,Lamb Kebab,8.58,url78
+158,Seafood,s3,Grilled Octopus,16.42,url99
+158,Grill,g1,Falafel,14.23,url86
+158,Grill,g2,Lamb Kebab,5.99,url63
+158,Grill,g3,Grilled Octopus,10.09,url52
+158,Grill,g4,Greek Salad,9.27,url89
+158,Desserts,d1,Greek Salad,11.98,url82
+158,Desserts,d2,Lamb Kebab,11.96,url63
+158,Desserts,d3,Hummus,20.74,url21
+158,Desserts,d4,Greek Salad,15.57,url97
+159,Starters,s1,Quesadilla,21.01,url66
+159,Starters,s2,Burrito,9.58,url81
+159,Starters,s3,Fajitas,20.72,url36
+159,Tacos,t1,Churros,20.33,url75
+159,Tacos,t2,Chicken Taco,16.49,url36
+159,Tacos,t3,Burrito,13.18,url47
+159,Tacos,t4,Chicken Taco,12.48,url54
+159,Mains,m1,Chicken Taco,23.49,url1
+159,Mains,m2,Fajitas,9.66,url61
+159,Mains,m3,Chicken Taco,21.81,url17
+159,Mains,m4,Chicken Taco,8.97,url1
+159,Mains,m5,Churros,16.48,url49
+159,Desserts,d1,Burrito,22.79,url67
+159,Desserts,d2,Chicken Taco,8.73,url12
+159,Desserts,d3,Quesadilla,15.39,url31
+159,Desserts,d4,Quesadilla,10.77,url65
+160,Dim Sum,d1,Lo Mein,14.65,url61
+160,Dim Sum,d2,Dumplings,12.68,url9
+160,Dim Sum,d3,Fried Rice,6.04,url40
+160,Noodles,n1,Fortune Cookies,9.44,url59
+160,Noodles,n2,Lo Mein,23.99,url91
+160,Noodles,n3,Fried Rice,24.41,url97
+160,Noodles,n4,Lo Mein,13.77,url47
+160,Noodles,n5,Lo Mein,22.58,url20
+160,Rice Dishes,r1,Fried Rice,10.83,url20
+160,Rice Dishes,r2,Sweet & Sour Chicken,18.56,url7
+160,Rice Dishes,r3,Fortune Cookies,18.41,url10
+160,Rice Dishes,r4,Fried Rice,20.4,url7
+160,Rice Dishes,r5,Fortune Cookies,18.15,url52
+160,Desserts,d1,Lo Mein,13.79,url32
+160,Desserts,d2,Lo Mein,5.76,url22
+160,Desserts,d3,Dumplings,17.05,url8
+160,Desserts,d4,Fried Rice,11.57,url34
+160,Desserts,d5,Sweet & Sour Chicken,10.28,url36
+161,Starters,s1,Biryani,13.28,url86
+161,Starters,s2,Naan,21.72,url64
+161,Starters,s3,Biryani,6.53,url27
+161,Starters,s4,Butter Chicken,20.49,url76
+161,Curries,c1,Paneer Tikka,5.18,url71
+161,Curries,c2,Naan,6.57,url48
+161,Curries,c3,Naan,11.67,url6
+161,Curries,c4,Paneer Tikka,21.27,url17
+161,Breads,b1,Butter Chicken,24.42,url97
+161,Breads,b2,Biryani,5.31,url9
+161,Breads,b3,Samosas,24.72,url62
+161,Breads,b4,Biryani,5.14,url4
+161,Breads,b5,Butter Chicken,22.57,url95
+161,Desserts,d1,Butter Chicken,7.41,url99
+161,Desserts,d2,Samosas,23.57,url5
+161,Desserts,d3,Butter Chicken,10.53,url89
+161,Desserts,d4,Gulab Jamun,14.13,url67
+162,Sushi,s1,Ramen,16.92,url76
+162,Sushi,s2,Salmon Sashimi,8.32,url90
+162,Sushi,s3,Teriyaki,20.53,url33
+162,Sushi,s4,Salmon Sashimi,21.39,url46
+162,Sashimi,s1,Teriyaki,24.9,url21
+162,Sashimi,s2,Salmon Sashimi,17.11,url72
+162,Sashimi,s3,Teriyaki,20.56,url64
+162,Sashimi,s4,California Roll,18.24,url21
+162,Sashimi,s5,Tempura,21.84,url55
+162,Noodles,n1,Teriyaki,16.15,url25
+162,Noodles,n2,Teriyaki,19.51,url3
+162,Noodles,n3,Ramen,23.21,url44
+162,Noodles,n4,Ramen,12.58,url94
+162,Desserts,d1,Salmon Sashimi,12.95,url78
+162,Desserts,d2,Mochi,17.1,url39
+162,Desserts,d3,Ramen,18.39,url58
+162,Desserts,d4,California Roll,22.21,url60
+162,Desserts,d5,California Roll,10.2,url65
+163,Starters,s1,Mango Sticky Rice,5.42,url57
+163,Starters,s2,Pad Thai,24.22,url10
+163,Starters,s3,Spring Rolls,15.0,url83
+163,Starters,s4,Mango Sticky Rice,10.71,url75
+163,Starters,s5,Spring Rolls,11.8,url8
+163,Curries,c1,Spring Rolls,23.46,url85
+163,Curries,c2,Pad Thai,14.77,url70
+163,Curries,c3,Green Curry,5.73,url48
+163,Noodles,n1,Spring Rolls,23.36,url95
+163,Noodles,n2,Tom Yum Soup,17.2,url18
+163,Noodles,n3,Spring Rolls,20.5,url44
+163,Noodles,n4,Tom Yum Soup,23.01,url83
+163,Noodles,n5,Mango Sticky Rice,11.58,url58
+163,Desserts,d1,Tom Yum Soup,18.76,url40
+163,Desserts,d2,Mango Sticky Rice,20.1,url54
+163,Desserts,d3,Green Curry,6.59,url24
+164,Entrées,e1,Baguette,23.53,url75
+164,Entrées,e2,Coq au Vin,21.16,url6
+164,Entrées,e3,Baguette,21.69,url44
+164,Plats Principaux,p1,Camembert,11.77,url85
+164,Plats Principaux,p2,Escargot,22.45,url28
+164,Plats Principaux,p3,Baguette,23.36,url34
+164,Plats Principaux,p4,Escargot,5.64,url75
+164,Plats Principaux,p5,Ratatouille,24.67,url11
+164,Fromages,f1,Camembert,23.89,url98
+164,Fromages,f2,Escargot,23.1,url61
+164,Fromages,f3,Ratatouille,15.84,url44
+164,Fromages,f4,Camembert,11.41,url43
+164,Fromages,f5,Crème Brûlée,15.78,url1
+164,Desserts,d1,Camembert,8.31,url93
+164,Desserts,d2,Camembert,24.78,url72
+164,Desserts,d3,Camembert,10.31,url47
+164,Desserts,d4,Baguette,11.5,url39
+164,Desserts,d5,Crème Brûlée,6.96,url6
+165,Appetizers,a1,Wings,23.91,url77
+165,Appetizers,a2,Chili Dog,23.15,url2
+165,Appetizers,a3,Cobb Salad,8.75,url42
+165,Burgers,b1,Chili Dog,23.15,url99
+165,Burgers,b2,Chili Dog,13.27,url21
+165,Burgers,b3,Wings,11.83,url65
+165,Burgers,b4,Cobb Salad,20.8,url96
+165,Burgers,b5,Apple Pie,6.86,url92
+165,Hot Dogs,h1,Cheeseburger,17.37,url85
+165,Hot Dogs,h2,Cobb Salad,15.15,url10
+165,Hot Dogs,h3,Apple Pie,21.88,url45
+165,Hot Dogs,h4,Chili Dog,5.81,url58
+165,Hot Dogs,h5,Wings,14.27,url22
+165,Desserts,d1,Fried Chicken,20.86,url54
+165,Desserts,d2,Cobb Salad,9.97,url53
+165,Desserts,d3,Chili Dog,10.29,url19
+166,Appetizers,a1,Moussaka,16.92,url72
+166,Appetizers,a2,Baklava,12.45,url17
+166,Appetizers,a3,Baklava,20.64,url46
+166,Appetizers,a4,Baklava,16.55,url75
+166,Appetizers,a5,Souvlaki,10.24,url19
+166,Salads,s1,Gyros,24.05,url16
+166,Salads,s2,Souvlaki,19.33,url28
+166,Salads,s3,Baklava,9.21,url32
+166,Salads,s4,Greek Salad,7.1,url17
+166,Mains,m1,Moussaka,18.12,url63
+166,Mains,m2,Tzatziki,9.28,url44
+166,Mains,m3,Souvlaki,11.76,url64
+166,Mains,m4,Gyros,12.69,url99
+166,Mains,m5,Moussaka,9.92,url77
+166,Desserts,d1,Souvlaki,6.89,url6
+166,Desserts,d2,Gyros,17.92,url31
+166,Desserts,d3,Gyros,9.61,url23
+166,Desserts,d4,Baklava,20.95,url100
+166,Desserts,d5,Greek Salad,6.27,url84
+167,Starters,s1,Che,15.74,url36
+167,Starters,s2,Che,15.2,url53
+167,Starters,s3,Bun Thit Nuong,6.42,url77
+167,Starters,s4,Bun Thit Nuong,18.97,url27
+167,Starters,s5,Banh Mi,6.47,url44
+167,Noodle Soups,n1,Bun Thit Nuong,11.54,url25
+167,Noodle Soups,n2,Che,7.77,url13
+167,Noodle Soups,n3,Lemongrass Chicken,23.62,url63
+167,Rice Dishes,r1,Bun Thit Nuong,6.57,url53
+167,Rice Dishes,r2,Lemongrass Chicken,10.64,url50
+167,Rice Dishes,r3,Che,16.85,url82
+167,Rice Dishes,r4,Lemongrass Chicken,8.56,url89
+167,Rice Dishes,r5,Lemongrass Chicken,22.86,url5
+167,Desserts,d1,Pho,6.01,url14
+167,Desserts,d2,Lemongrass Chicken,18.18,url12
+167,Desserts,d3,Lemongrass Chicken,20.65,url8
+167,Desserts,d4,Banh Mi,17.98,url94
+168,Tapas,t1,Gambas al Ajillo,12.48,url66
+168,Tapas,t2,Sangria,21.42,url40
+168,Tapas,t3,Patatas Bravas,13.25,url92
+168,Mains,m1,Sangria,11.16,url19
+168,Mains,m2,Gambas al Ajillo,10.42,url13
+168,Mains,m3,Gambas al Ajillo,17.04,url9
+168,Seafood,s1,Patatas Bravas,19.83,url28
+168,Seafood,s2,Churros,10.69,url22
+168,Seafood,s3,Churros,7.22,url78
+168,Seafood,s4,Patatas Bravas,16.83,url26
+168,Desserts,d1,Churros,12.66,url95
+168,Desserts,d2,Paella,10.96,url33
+168,Desserts,d3,Tortilla Española,7.03,url68
+168,Desserts,d4,Paella,9.49,url51
+169,Antipasti,a1,Spaghetti,9.29,url93
+169,Antipasti,a2,Spaghetti,8.05,url9
+169,Antipasti,a3,Spaghetti,14.91,url46
+169,Antipasti,a4,Spaghetti,14.5,url17
+169,Primi,p1,Ravioli,22.02,url50
+169,Primi,p2,Bruschetta,24.71,url14
+169,Primi,p3,Bruschetta,12.82,url63
+169,Primi,p4,Margherita Pizza,19.55,url11
+169,Primi,p5,Ravioli,13.59,url100
+169,Secondi,s1,Ravioli,6.48,url67
+169,Secondi,s2,Lasagna,5.78,url4
+169,Secondi,s3,Lasagna,6.12,url59
+169,Dolci,d1,Spaghetti,11.94,url97
+169,Dolci,d2,Tiramisu,11.11,url73
+169,Dolci,d3,Bruschetta,12.87,url55
+170,Mezze,m1,Lamb Kebab,11.32,url34
+170,Mezze,m2,Lamb Kebab,6.46,url50
+170,Mezze,m3,Baklava,11.61,url17
+170,Mezze,m4,Lamb Kebab,19.49,url67
+170,Mezze,m5,Lamb Kebab,6.4,url58
+170,Seafood,s1,Lamb Kebab,6.91,url89
+170,Seafood,s2,Hummus,19.14,url38
+170,Seafood,s3,Grilled Octopus,12.41,url13
+170,Grill,g1,Lamb Kebab,7.19,url47
+170,Grill,g2,Lamb Kebab,22.47,url66
+170,Grill,g3,Hummus,8.59,url64
+170,Desserts,d1,Falafel,16.27,url57
+170,Desserts,d2,Baklava,16.5,url37
+170,Desserts,d3,Hummus,5.89,url22
+170,Desserts,d4,Baklava,21.83,url84
+171,Starters,s1,Nachos,22.63,url30
+171,Starters,s2,Churros,8.09,url23
+171,Starters,s3,Quesadilla,15.81,url41
+171,Tacos,t1,Fajitas,22.42,url6
+171,Tacos,t2,Burrito,15.74,url6
+171,Tacos,t3,Chicken Taco,8.72,url74
+171,Tacos,t4,Quesadilla,15.76,url41
+171,Tacos,t5,Nachos,17.14,url1
+171,Mains,m1,Quesadilla,6.32,url14
+171,Mains,m2,Burrito,7.12,url91
+171,Mains,m3,Quesadilla,23.88,url95
+171,Mains,m4,Fajitas,12.97,url81
+171,Mains,m5,Quesadilla,6.99,url70
+171,Desserts,d1,Quesadilla,13.56,url22
+171,Desserts,d2,Burrito,16.64,url1
+171,Desserts,d3,Burrito,21.96,url80
+171,Desserts,d4,Chicken Taco,24.81,url46
+171,Desserts,d5,Burrito,8.28,url61
+172,Dim Sum,d1,Dumplings,18.57,url92
+172,Dim Sum,d2,Lo Mein,5.36,url20
+172,Dim Sum,d3,Fried Rice,10.84,url29
+172,Dim Sum,d4,Fortune Cookies,14.66,url96
+172,Dim Sum,d5,Dumplings,12.86,url71
+172,Noodles,n1,Fried Rice,18.37,url69
+172,Noodles,n2,Fried Rice,19.55,url21
+172,Noodles,n3,Fried Rice,15.38,url23
+172,Noodles,n4,Lo Mein,22.6,url47
+172,Rice Dishes,r1,Sweet & Sour Chicken,9.69,url44
+172,Rice Dishes,r2,Sweet & Sour Chicken,23.74,url33
+172,Rice Dishes,r3,Lo Mein,23.27,url27
+172,Desserts,d1,Fried Rice,10.47,url45
+172,Desserts,d2,Dumplings,22.53,url64
+172,Desserts,d3,Fried Rice,21.07,url23
+173,Starters,s1,Butter Chicken,17.69,url90
+173,Starters,s2,Butter Chicken,8.43,url48
+173,Starters,s3,Biryani,14.64,url49
+173,Curries,c1,Gulab Jamun,13.94,url58
+173,Curries,c2,Naan,11.37,url12
+173,Curries,c3,Samosas,12.2,url86
+173,Curries,c4,Butter Chicken,5.84,url51
+173,Breads,b1,Samosas,20.74,url95
+173,Breads,b2,Naan,17.55,url30
+173,Breads,b3,Samosas,5.44,url64
+173,Desserts,d1,Naan,18.23,url51
+173,Desserts,d2,Butter Chicken,20.26,url15
+173,Desserts,d3,Biryani,15.68,url99
+174,Sushi,s1,California Roll,18.9,url40
+174,Sushi,s2,California Roll,19.59,url5
+174,Sushi,s3,Mochi,10.7,url42
+174,Sushi,s4,Tempura,5.99,url12
+174,Sushi,s5,Mochi,23.63,url14
+174,Sashimi,s1,Mochi,20.72,url53
+174,Sashimi,s2,Salmon Sashimi,9.44,url28
+174,Sashimi,s3,Tempura,20.17,url22
+174,Noodles,n1,Ramen,23.07,url66
+174,Noodles,n2,Teriyaki,17.9,url30
+174,Noodles,n3,Teriyaki,17.69,url35
+174,Noodles,n4,California Roll,23.74,url39
+174,Noodles,n5,Mochi,11.47,url12
+174,Desserts,d1,California Roll,19.47,url13
+174,Desserts,d2,Mochi,12.05,url31
+174,Desserts,d3,California Roll,18.48,url5
+174,Desserts,d4,Salmon Sashimi,14.79,url37
+174,Desserts,d5,California Roll,13.65,url90
+175,Starters,s1,Pad Thai,24.68,url55
+175,Starters,s2,Spring Rolls,11.17,url38
+175,Starters,s3,Mango Sticky Rice,9.67,url11
+175,Curries,c1,Mango Sticky Rice,19.17,url47
+175,Curries,c2,Spring Rolls,23.53,url61
+175,Curries,c3,Spring Rolls,20.95,url47
+175,Noodles,n1,Green Curry,7.31,url98
+175,Noodles,n2,Tom Yum Soup,17.64,url17
+175,Noodles,n3,Tom Yum Soup,21.04,url57
+175,Noodles,n4,Green Curry,22.68,url73
+175,Noodles,n5,Pad Thai,23.02,url19
+175,Desserts,d1,Mango Sticky Rice,11.56,url59
+175,Desserts,d2,Mango Sticky Rice,13.44,url89
+175,Desserts,d3,Spring Rolls,24.56,url9
+175,Desserts,d4,Pad Thai,5.85,url50
+175,Desserts,d5,Green Curry,8.82,url84
+176,Entrées,e1,Camembert,21.0,url46
+176,Entrées,e2,Ratatouille,24.3,url98
+176,Entrées,e3,Camembert,19.28,url90
+176,Plats Principaux,p1,Camembert,6.08,url47
+176,Plats Principaux,p2,Escargot,9.09,url33
+176,Plats Principaux,p3,Crème Brûlée,16.45,url63
+176,Plats Principaux,p4,Camembert,12.54,url30
+176,Fromages,f1,Ratatouille,20.82,url93
+176,Fromages,f2,Escargot,20.39,url42
+176,Fromages,f3,Escargot,12.88,url51
+176,Fromages,f4,Escargot,5.99,url69
+176,Desserts,d1,Crème Brûlée,14.77,url73
+176,Desserts,d2,Baguette,5.18,url30
+176,Desserts,d3,Ratatouille,8.55,url76
+177,Appetizers,a1,Chili Dog,19.57,url40
+177,Appetizers,a2,Wings,18.47,url44
+177,Appetizers,a3,Apple Pie,12.93,url47
+177,Appetizers,a4,Chili Dog,19.04,url53
+177,Appetizers,a5,Chili Dog,20.94,url60
+177,Burgers,b1,Chili Dog,24.76,url43
+177,Burgers,b2,Fried Chicken,24.03,url82
+177,Burgers,b3,Cheeseburger,16.21,url57
+177,Burgers,b4,Fried Chicken,16.51,url16
+177,Burgers,b5,Chili Dog,5.18,url76
+177,Hot Dogs,h1,Cheeseburger,15.09,url54
+177,Hot Dogs,h2,Chili Dog,21.36,url57
+177,Hot Dogs,h3,Cobb Salad,6.76,url14
+177,Desserts,d1,Chili Dog,7.9,url23
+177,Desserts,d2,Cheeseburger,11.35,url33
+177,Desserts,d3,Chili Dog,13.71,url13
+178,Appetizers,a1,Tzatziki,20.35,url68
+178,Appetizers,a2,Moussaka,11.4,url78
+178,Appetizers,a3,Moussaka,19.37,url14
+178,Appetizers,a4,Gyros,14.01,url16
+178,Appetizers,a5,Tzatziki,19.6,url20
+178,Salads,s1,Souvlaki,10.24,url46
+178,Salads,s2,Baklava,20.0,url64
+178,Salads,s3,Baklava,13.05,url63
+178,Salads,s4,Gyros,22.87,url63
+178,Salads,s5,Tzatziki,14.1,url80
+178,Mains,m1,Moussaka,7.75,url70
+178,Mains,m2,Baklava,12.13,url71
+178,Mains,m3,Greek Salad,18.17,url77
+178,Desserts,d1,Souvlaki,19.59,url75
+178,Desserts,d2,Gyros,17.45,url26
+178,Desserts,d3,Tzatziki,19.04,url94
+179,Starters,s1,Pho,21.79,url13
+179,Starters,s2,Pho,16.3,url34
+179,Starters,s3,Che,10.12,url79
+179,Starters,s4,Lemongrass Chicken,15.35,url70
+179,Noodle Soups,n1,Spring Rolls,7.06,url67
+179,Noodle Soups,n2,Lemongrass Chicken,5.23,url11
+179,Noodle Soups,n3,Spring Rolls,9.66,url11
+179,Rice Dishes,r1,Lemongrass Chicken,11.0,url79
+179,Rice Dishes,r2,Bun Thit Nuong,14.13,url84
+179,Rice Dishes,r3,Banh Mi,20.58,url58
+179,Desserts,d1,Pho,17.17,url19
+179,Desserts,d2,Spring Rolls,6.74,url45
+179,Desserts,d3,Banh Mi,17.08,url84
+179,Desserts,d4,Bun Thit Nuong,22.22,url61
+179,Desserts,d5,Pho,21.56,url39
+180,Tapas,t1,Churros,23.2,url97
+180,Tapas,t2,Gambas al Ajillo,14.15,url74
+180,Tapas,t3,Gambas al Ajillo,23.07,url77
+180,Tapas,t4,Sangria,10.02,url66
+180,Mains,m1,Churros,8.53,url96
+180,Mains,m2,Paella,7.18,url46
+180,Mains,m3,Gambas al Ajillo,21.99,url93
+180,Mains,m4,Patatas Bravas,18.56,url31
+180,Mains,m5,Churros,15.87,url100
+180,Seafood,s1,Sangria,12.35,url15
+180,Seafood,s2,Paella,7.12,url30
+180,Seafood,s3,Sangria,12.77,url7
+180,Seafood,s4,Churros,14.92,url95
+180,Desserts,d1,Patatas Bravas,17.64,url73
+180,Desserts,d2,Paella,5.89,url4
+180,Desserts,d3,Sangria,19.66,url97
+180,Desserts,d4,Sangria,11.48,url50
+181,Antipasti,a1,Spaghetti,10.02,url54
+181,Antipasti,a2,Spaghetti,18.63,url94
+181,Antipasti,a3,Lasagna,22.14,url93
+181,Antipasti,a4,Bruschetta,12.82,url66
+181,Primi,p1,Bruschetta,8.16,url49
+181,Primi,p2,Tiramisu,24.76,url70
+181,Primi,p3,Lasagna,10.65,url100
+181,Primi,p4,Bruschetta,8.2,url91
+181,Primi,p5,Margherita Pizza,19.49,url52
+181,Secondi,s1,Spaghetti,17.61,url3
+181,Secondi,s2,Bruschetta,8.87,url3
+181,Secondi,s3,Tiramisu,17.99,url65
+181,Secondi,s4,Lasagna,23.89,url97
+181,Secondi,s5,Bruschetta,23.96,url23
+181,Dolci,d1,Ravioli,23.33,url39
+181,Dolci,d2,Ravioli,7.38,url37
+181,Dolci,d3,Spaghetti,18.0,url85
+181,Dolci,d4,Ravioli,12.36,url39
+182,Mezze,m1,Hummus,14.31,url34
+182,Mezze,m2,Falafel,17.02,url52
+182,Mezze,m3,Baklava,10.09,url86
+182,Mezze,m4,Hummus,6.11,url15
+182,Seafood,s1,Hummus,21.98,url41
+182,Seafood,s2,Hummus,6.43,url52
+182,Seafood,s3,Hummus,16.05,url42
+182,Grill,g1,Falafel,17.17,url7
+182,Grill,g2,Baklava,17.1,url28
+182,Grill,g3,Lamb Kebab,18.07,url57
+182,Grill,g4,Greek Salad,11.54,url69
+182,Desserts,d1,Lamb Kebab,7.28,url22
+182,Desserts,d2,Hummus,15.58,url11
+182,Desserts,d3,Falafel,10.41,url65
+183,Starters,s1,Quesadilla,22.38,url20
+183,Starters,s2,Chicken Taco,17.04,url99
+183,Starters,s3,Churros,18.44,url27
+183,Starters,s4,Fajitas,9.72,url49
+183,Starters,s5,Churros,14.36,url72
+183,Tacos,t1,Chicken Taco,11.26,url73
+183,Tacos,t2,Quesadilla,23.8,url26
+183,Tacos,t3,Burrito,7.03,url61
+183,Mains,m1,Burrito,14.15,url90
+183,Mains,m2,Fajitas,5.95,url74
+183,Mains,m3,Quesadilla,19.15,url42
+183,Mains,m4,Quesadilla,17.07,url32
+183,Desserts,d1,Fajitas,6.4,url93
+183,Desserts,d2,Churros,16.73,url83
+183,Desserts,d3,Burrito,7.13,url89
+184,Dim Sum,d1,Fried Rice,11.38,url85
+184,Dim Sum,d2,Lo Mein,8.96,url19
+184,Dim Sum,d3,Fortune Cookies,9.2,url21
+184,Dim Sum,d4,Sweet & Sour Chicken,16.3,url56
+184,Noodles,n1,Sweet & Sour Chicken,7.82,url41
+184,Noodles,n2,Sweet & Sour Chicken,13.15,url81
+184,Noodles,n3,Fortune Cookies,11.19,url36
+184,Noodles,n4,Dumplings,13.37,url72
+184,Noodles,n5,Dumplings,7.52,url88
+184,Rice Dishes,r1,Fortune Cookies,8.83,url43
+184,Rice Dishes,r2,Fortune Cookies,16.54,url90
+184,Rice Dishes,r3,Lo Mein,10.78,url10
+184,Rice Dishes,r4,Sweet & Sour Chicken,6.98,url68
+184,Rice Dishes,r5,Lo Mein,20.09,url55
+184,Desserts,d1,Fried Rice,12.34,url53
+184,Desserts,d2,Sweet & Sour Chicken,15.81,url69
+184,Desserts,d3,Dumplings,19.12,url2
+185,Starters,s1,Biryani,20.53,url25
+185,Starters,s2,Gulab Jamun,22.25,url20
+185,Starters,s3,Paneer Tikka,10.22,url61
+185,Starters,s4,Paneer Tikka,14.6,url35
+185,Starters,s5,Naan,22.13,url75
+185,Curries,c1,Paneer Tikka,24.92,url91
+185,Curries,c2,Paneer Tikka,12.24,url28
+185,Curries,c3,Naan,7.77,url71
+185,Curries,c4,Gulab Jamun,14.65,url96
+185,Curries,c5,Samosas,15.33,url56
+185,Breads,b1,Paneer Tikka,8.12,url32
+185,Breads,b2,Biryani,16.03,url16
+185,Breads,b3,Butter Chicken,19.7,url94
+185,Desserts,d1,Samosas,20.29,url14
+185,Desserts,d2,Samosas,9.62,url97
+185,Desserts,d3,Biryani,5.86,url57
+185,Desserts,d4,Butter Chicken,5.09,url9
+185,Desserts,d5,Samosas,8.85,url69
+186,Sushi,s1,Tempura,15.78,url52
+186,Sushi,s2,Tempura,24.21,url10
+186,Sushi,s3,Salmon Sashimi,21.51,url51
+186,Sashimi,s1,Mochi,22.52,url1
+186,Sashimi,s2,Salmon Sashimi,17.3,url76
+186,Sashimi,s3,Mochi,18.62,url58
+186,Sashimi,s4,Mochi,17.49,url19
+186,Noodles,n1,Teriyaki,8.31,url97
+186,Noodles,n2,California Roll,16.0,url85
+186,Noodles,n3,Teriyaki,13.9,url71
+186,Noodles,n4,Mochi,15.35,url79
+186,Noodles,n5,Mochi,20.49,url15
+186,Desserts,d1,California Roll,9.72,url31
+186,Desserts,d2,Mochi,5.41,url43
+186,Desserts,d3,Tempura,18.96,url83
+186,Desserts,d4,Tempura,20.31,url29
+187,Starters,s1,Mango Sticky Rice,21.4,url77
+187,Starters,s2,Green Curry,14.11,url23
+187,Starters,s3,Mango Sticky Rice,6.73,url21
+187,Curries,c1,Green Curry,10.68,url5
+187,Curries,c2,Mango Sticky Rice,13.62,url69
+187,Curries,c3,Pad Thai,10.12,url66
+187,Curries,c4,Green Curry,8.88,url8
+187,Noodles,n1,Green Curry,24.98,url52
+187,Noodles,n2,Spring Rolls,15.78,url76
+187,Noodles,n3,Tom Yum Soup,24.44,url100
+187,Noodles,n4,Spring Rolls,13.25,url33
+187,Noodles,n5,Spring Rolls,6.49,url91
+187,Desserts,d1,Spring Rolls,18.4,url16
+187,Desserts,d2,Mango Sticky Rice,6.31,url58
+187,Desserts,d3,Pad Thai,6.97,url84
+187,Desserts,d4,Tom Yum Soup,17.55,url21
+187,Desserts,d5,Spring Rolls,23.45,url82
+188,Entrées,e1,Escargot,15.76,url41
+188,Entrées,e2,Ratatouille,24.2,url28
+188,Entrées,e3,Ratatouille,5.18,url24
+188,Plats Principaux,p1,Crème Brûlée,20.28,url73
+188,Plats Principaux,p2,Camembert,5.44,url22
+188,Plats Principaux,p3,Camembert,23.82,url69
+188,Plats Principaux,p4,Camembert,16.82,url88
+188,Fromages,f1,Ratatouille,18.6,url7
+188,Fromages,f2,Camembert,6.03,url22
+188,Fromages,f3,Camembert,24.07,url6
+188,Fromages,f4,Escargot,16.65,url3
+188,Fromages,f5,Crème Brûlée,17.89,url28
+188,Desserts,d1,Coq au Vin,17.33,url54
+188,Desserts,d2,Baguette,20.85,url54
+188,Desserts,d3,Baguette,13.09,url32
+189,Appetizers,a1,Wings,15.7,url1
+189,Appetizers,a2,Wings,23.0,url64
+189,Appetizers,a3,Apple Pie,23.36,url59
+189,Appetizers,a4,Chili Dog,14.57,url76
+189,Burgers,b1,Cobb Salad,20.58,url54
+189,Burgers,b2,Chili Dog,15.48,url80
+189,Burgers,b3,Fried Chicken,19.37,url49
+189,Burgers,b4,Cobb Salad,8.27,url67
+189,Hot Dogs,h1,Chili Dog,9.94,url53
+189,Hot Dogs,h2,Wings,15.1,url69
+189,Hot Dogs,h3,Fried Chicken,15.57,url62
+189,Hot Dogs,h4,Cobb Salad,11.13,url97
+189,Hot Dogs,h5,Chili Dog,16.32,url56
+189,Desserts,d1,Wings,16.16,url55
+189,Desserts,d2,Wings,13.5,url17
+189,Desserts,d3,Apple Pie,17.68,url17
+189,Desserts,d4,Cobb Salad,23.35,url45
+189,Desserts,d5,Cheeseburger,6.95,url61
+190,Appetizers,a1,Moussaka,17.72,url58
+190,Appetizers,a2,Moussaka,22.94,url68
+190,Appetizers,a3,Gyros,24.83,url26
+190,Salads,s1,Baklava,24.06,url12
+190,Salads,s2,Moussaka,22.11,url62
+190,Salads,s3,Baklava,21.54,url54
+190,Salads,s4,Tzatziki,23.68,url34
+190,Salads,s5,Gyros,18.84,url22
+190,Mains,m1,Greek Salad,24.62,url27
+190,Mains,m2,Souvlaki,19.5,url19
+190,Mains,m3,Moussaka,14.54,url79
+190,Desserts,d1,Gyros,6.37,url31
+190,Desserts,d2,Souvlaki,10.91,url12
+190,Desserts,d3,Moussaka,13.4,url28
+190,Desserts,d4,Moussaka,11.08,url28
+190,Desserts,d5,Gyros,16.54,url60
+191,Starters,s1,Banh Mi,22.23,url46
+191,Starters,s2,Bun Thit Nuong,6.63,url46
+191,Starters,s3,Banh Mi,12.73,url49
+191,Starters,s4,Spring Rolls,18.96,url41
+191,Starters,s5,Lemongrass Chicken,22.56,url78
+191,Noodle Soups,n1,Che,21.24,url15
+191,Noodle Soups,n2,Lemongrass Chicken,7.65,url45
+191,Noodle Soups,n3,Bun Thit Nuong,24.97,url10
+191,Noodle Soups,n4,Bun Thit Nuong,6.24,url92
+191,Noodle Soups,n5,Spring Rolls,24.82,url68
+191,Rice Dishes,r1,Spring Rolls,16.96,url27
+191,Rice Dishes,r2,Spring Rolls,14.33,url42
+191,Rice Dishes,r3,Pho,21.97,url19
+191,Rice Dishes,r4,Spring Rolls,14.28,url58
+191,Rice Dishes,r5,Banh Mi,8.09,url63
+191,Desserts,d1,Banh Mi,6.98,url98
+191,Desserts,d2,Banh Mi,5.04,url67
+191,Desserts,d3,Lemongrass Chicken,10.45,url53
