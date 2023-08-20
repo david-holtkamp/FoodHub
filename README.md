@@ -26,7 +26,7 @@ Notes:
 - Tested the SQL query by deploying a local Postgres instance and importing the csv's
 
 TO-DO: 
-- Given more time, I may have done some slight refactoring and tested scalability of both script and SQL query. 
+- Given more time, I may have done some slight refactoring and further tested scalability of both script and SQL query. 
 - Add testing
 - Better documentation for methods
 - Add logging statements
