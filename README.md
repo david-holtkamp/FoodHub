@@ -17,7 +17,7 @@ Included here is:
 - SQL file where I did the analysis to return those Mediterranean restaurants that have dishes under $15.
 
 Setup and Usage: 
-- Clone the repo onto your machine (git@github.com:david-holtkamp/FoodHub.git)
+- Clone the repo onto your machine `git@github.com:david-holtkamp/FoodHub.git`
 - Navigate to that repo
 - Run the script by executing `python processor.py`
 
