@@ -19,7 +19,6 @@ Setup and Usage:
 - Clone the repo onto your machine
 - Navigate to that repo
 - Run the script by executing `python processor.py`
-- I was using python version 3.9 to run this script locally.
 
 Notes: 
 - Python Version 3.9.6
