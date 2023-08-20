@@ -1,2 +1,33 @@
 # FoodHub
-food aggregator platform 
+Food Aggregator Platform
+
+Developer: David Holtkamp
+Date: 08/20/2023
+
+Summary 
+
+Provided a JSON document with data about the American restaurant industry. There are restaurants, cuisines offered by the restaurant, and menu/menu items for the restaurant. 
+
+Tasked with building an ETL pipeline, and performing analysis on the resulting tables. 
+
+Included here is:
+- processor.py, the python script that loaded the data, made necessary transformations, and loaded the data into two separate csv's. 
+- Two csv's, a restaurants table, and a menu_items table.
+- SQL file where I did the analysis to return those Mediterranean restaurants that have dishes under $15.
+
+Setup and Usage: 
+- Clone the repo onto your machine
+- Navigate to that repo
+- Run the script by executing `python processor.py`
+- I was using python version 3.9 to run this script locally.
+
+Notes: 
+- Python Version 3.9.6
+- Tested the SQL query by deploying a local Postgres instance and importing the csv's
+
+TO-DO: 
+- Given more time, I may have done some slight refactoring
+- Add testing
+- Better documentation for methods
+- Add some logging statements
+
