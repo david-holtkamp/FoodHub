@@ -27,7 +27,7 @@ Included here is:
 
 ## **TO-DO:**
 - Given more time, I may have done some slight refactoring and further tested scalability of both script and SQL query. 
-- Add testing
+- Add unit testing
 - Better documentation for methods
 - Add logging statements
 
