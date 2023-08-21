@@ -5,7 +5,7 @@ Developer: David Holtkamp
 
 Date: 08/20/2023
 
-**Summary** 
+ ## **Summary** 
 
 Provided a JSON document with data about the American restaurant industry. There are restaurants, cuisines offered by the restaurant, and menu/menu items for the restaurant. 
 
@@ -16,16 +16,16 @@ Included here is:
 - Two csv's, a restaurants table, and a menu_items table.
 - SQL file where I did the analysis to return those Mediterranean restaurants that have dishes under $15.
 
-**Setup and Usage:** 
+## **Setup and Usage:** 
 - Clone the repo onto your machine `git@github.com:david-holtkamp/FoodHub.git`
 - Navigate to that repo
 - Run the script by executing `python processor.py`
 
-**Notes:**
+## **Notes:**
 - Python Version 3.9.6
 - Tested the SQL query by deploying a local Postgres instance and importing the csv's
 
-**TO-DO:**
+## **TO-DO:**
 - Given more time, I may have done some slight refactoring and further tested scalability of both script and SQL query. 
 - Add testing
 - Better documentation for methods
